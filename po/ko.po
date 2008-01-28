@@ -1,0 +1,2545 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2008-01-28 20:40+0100\n"
+"PO-Revision-Date: 2008-01-28 20:40+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: Bad_Moon_Rising/_main.cfg:9
+msgid "Bad Moon Rising"
+msgstr ""
+
+#: Bad_Moon_Rising/_main.cfg:13
+msgid "(easy)"
+msgstr ""
+
+#: Bad_Moon_Rising/_main.cfg:13
+msgid "Regular"
+msgstr ""
+
+#: Bad_Moon_Rising/_main.cfg:14
+msgid "(normal)"
+msgstr ""
+
+#: Bad_Moon_Rising/_main.cfg:14
+msgid "Veteran"
+msgstr ""
+
+#: Bad_Moon_Rising/_main.cfg:15
+msgid "Subcommander"
+msgstr ""
+
+#: Bad_Moon_Rising/_main.cfg:15
+msgid "(hard)"
+msgstr ""
+
+#: Bad_Moon_Rising/_main.cfg:16
+msgid ""
+"The best of intentions often do not lead to the best results.  The Prince "
+"was a monster, but while overthrowing him, Officer Lorenzon unwittingly "
+"unleashes an even greater evil on the world.  (This campaign introduces a "
+"new faction.  Requires Extended Era.  There are 14 scenarios playable, they "
+"still need balancing if not debugging.)"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:4
+msgid "Enough"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:29
+msgid "Kill Enemy leader"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:26
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:23
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:25
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:44
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:33
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:24
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:39
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:39
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:43
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:26
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:44
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:24
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:33
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:42
+msgid "Death of Lorenzon"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:30
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:31
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:37
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:43
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:43
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:37
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:46
+msgid "Death of Duval"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:42
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:43
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:37
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:77
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:45
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:39
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:78
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:55
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:55
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:84
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:38
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:135
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:87
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:45
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:54
+msgid "Lorenzon"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:56
+msgid "Minister Duval"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:73
+msgid "Officer Cantwell"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:90
+msgid "Burgen"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:109
+msgid ""
+"The peasants are getting out of line.  We need to stop this before the "
+"violence spreads..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:113
+msgid ""
+"I've heard that the Prince crashed a wedding, killed everyone.  I can see "
+"why the peasants are angry."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:117
+msgid ""
+"No, it was an orcish raid.  The Prince found them afterward, you know that!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:121
+msgid "That's not true!  I was there - barely made it out alive!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:125
+msgid ""
+"We haven't seen orcs this far in for years.  If it were orcs, there would be "
+"a hunt!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:129
+msgid ""
+"Officer Lorenzon!  I am Minister-well, former Minister- Duval.  I support "
+"your revolution!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:133
+msgid "Whoa! My what?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:137
+msgid ""
+"No!  I don't know what you're up to, Lorenzon, but the blood of these "
+"peasants is on your hands!  Now I have to kill all of you to quell a "
+"rebellion!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:141
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:153
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:165
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:177
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:189
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:201
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:213
+msgid "Angry Farmer"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:225
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:237
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:249
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:63
+msgid "Rioter"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:268
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:185
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:160
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:174
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:139
+msgid "THAT is what happens to traitors!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:281
+msgid "There was something I had to tell you..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:295
+msgid "I'd never expected this from you...  Traitor..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:299
+msgid "He won't be the only one to call me that..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:303
+msgid "Come on men, let's get out of here!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:307
+msgid "Yes..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:318
+msgid "Ah, reinforcements are here.  It's over, traitors!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/A_Enough.cfg:322
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:232
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:223
+msgid "Arg!  He's right, we're screwed!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:4
+msgid "Rescue"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:29
+msgid "Kill Enemy leaders"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:57
+msgid "Peasant"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:71
+msgid "Bahren"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:88
+msgid "Carusoe"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:135
+msgid "This is him.  Thinks he's big man!  Gonna be a hero!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:139
+msgid "Heh!  So, Hero, where is she?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:143
+msgid "(Spit!) Go t'hell!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:147
+msgid ""
+"(I recognize those two.  They often go wolf hunting with Huric.  What are "
+"they doing?)"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:151
+msgid "I grow tired of this, Hero.  You've got a pretty mouth-"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:155
+msgid "Get to safety, Farmer!  We'll drive these lowlifes out of your village."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:159
+msgid "I recognize that man!  Give'm hell, Officer Lorenzon!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:163
+msgid "Officer?  He ain't no officer, he's a traitor.  Traitor Lorenzon..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:205
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:259
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:198
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:173
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:187
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:152
+msgid "We had just started..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:198
+msgid "Ah, the Prince's forces are here.  It's over, fools!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:202
+msgid "Yes!  Here's His Magesty, it's over!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/B_Rescue.cfg:206
+msgid "Arg!  There are so many of them, we're screwed!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:4
+msgid "Camp"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:35
+msgid "Kill Enemy Leaders"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:47
+msgid "Enemy makes it across the river"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:68
+msgid "General Burton"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:85
+msgid "Carson"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:101
+msgid "Tenvan"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:139
+msgid ""
+"It was around here somewhere... Wait! I think I see the camp over there..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:143
+msgid ""
+"I see it too.  Good work, Carson.  Now you can prove your loyalty by helping "
+"us exterminate these vipers.  Then I'll pay you."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:147
+msgid "Grrr, very well."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:151
+msgid ""
+"Sounds like we've got company.  If they make it past the river, we won't be "
+"able to protect the civilians.  Tenvan and his dogs might be able to hold "
+"them at the river fort for a few hours, but we need to get soldiers there as "
+"fast as possible!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:155
+msgid "Yes, to arms!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:159
+msgid ""
+"I'm comin' to get you, Lorenzon!  This stupid rebellion will end right here!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:163
+msgid "Hang on Tenvan!  Men, don't let them cross the river!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:174
+msgid "I did what I could (gasp!).  Look after my dogs..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:212
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:187
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:166
+msgid "Traitor..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:216
+msgid ""
+"I'll be hearing a lot of that.  I know my cause is just, but it doesn't make "
+"it any easier..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:220
+msgid "This camp has been discovered, we need to move on."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:228
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:219
+msgid "Ah, the Prince's forces are here.  It's over, traitors!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:247
+msgid "Ha!  So defensless, surrender!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/C_Camp.cfg:251
+msgid ""
+"They've made it through, some of us can run but the old and very young "
+"can't.  I'll surrender, maybe they'll go easy on the others."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:4
+msgid "Fortress"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:35
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:34
+msgid "Kill Enemy Leader"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:34
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:35
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:29
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:47
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:30
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:28
+msgid "Time Runs Out"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:68
+msgid "General Drago"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:83
+msgid "Rhent"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:90
+msgid "Thren"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:109
+msgid "(Our best bet is to create an opening near the west wall and-"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:113
+msgid "Halt!  Who goes there?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:117
+msgid "(Get down!)"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:121
+msgid "Not saying, eh?  We're under attack!  To arms!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:133
+msgid ""
+"So Lorenzon, you're leading a nativist rebellion!  And after all we've done "
+"for you!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:137
+msgid ""
+"No, this is not a 'nativist rebellion'.  Can't you see that Huric is a "
+"threat to all that your people have accomplished here?  Join us in the fight "
+"to save Ukiah!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:141
+msgid ""
+"Oh sure -(spit)-!  I'll agree Huric could do better, but he's now King and "
+"the source of all strength and stability.  With Huric gone, you'd feed us to "
+"the orcs.  I'm not stupid."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:145
+msgid "And I'm not going to tell Huric that I lost Fort Khule!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:149
+msgid "Rally men!  Don't let them through!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:191
+msgid ""
+"News of this will spread, we need to get ready to fend off an assault as "
+"soon as possible."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:195
+msgid ""
+"We need to let Huric know we are serious.  Send him the severed head of his "
+"underling!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:199
+msgid ""
+"You mean General Drago!?  What did he do to deserve that, and what could we "
+"possibly hope to gain from such an action?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:203
+msgid ""
+"I know how it appears, but Huric is a beast and only speaks a certain "
+"language.  Trust me, I've had to put up with it for years..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:207
+msgid ""
+"This revolution will never succeed if we do not show Huric and his men that "
+"we are not afraid of them!  We'll need to inspire the people while the rage "
+"is hot and momentum is on our side!  Hunkering down in this fort and running "
+"guerilla skirmishes is a recipe for a slow defeat."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/D_Fort.cfg:211
+msgid "(Hmm, if you say so...)"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:4
+msgid "Defend"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:38
+msgid "Hold Out Until End of Turns"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:53
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:68
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:67
+msgid "General Maskov"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:84
+msgid "Secco"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:90
+msgid "Hondo"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:109
+msgid "Here they come..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:113
+msgid "Exactly as you thought, Sir.  The rebels have captured Fort Khule."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:117
+msgid "We have to get it back.  Move!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:128
+msgid "Down, cur!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:170
+msgid ""
+"I am tired of hearing that.  The Prince is a madman, and those who enable "
+"him are the traitors.  I'm trying to re-establish the rule of law!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:174
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:202
+msgid ""
+"You have an interesting way of doing that - sending Huric General Drago's "
+"head in a box!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:178
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:206
+msgid ""
+"(That was not my idea...)  Drago died in battle, I did not execute him.  The "
+"prince has done things much worse and will continue to do so unless he is "
+"stopped."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:182
+msgid ""
+"I believe you, Lorenzon, and I wish we were not being led by that fool.  If "
+"allowed to live, I offer to join you in this task to re-establish the rule "
+"of law."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:186
+msgid "You may live.  If you truely believe in our cause, you are welcome."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:194
+msgid ""
+"Why are you doing this?  Just what are you hoping to accomplish, traitor?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:198
+msgid ""
+"Don't call me a traitor!  The Prince is a madman, and those who enable him "
+"are the traitors.  I'm trying to re-establish the rule of law."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:210
+msgid ""
+"I believe you, Lorenzon, and I wish we were not being led by that fool - I "
+"offer to join you in this task to re-establish the rule of law."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:214
+msgid "If you truely believe in our cause, you are welcome."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:4
+msgid "Mines"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:22
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:19
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:21
+msgid "Explore the Mines"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:67
+msgid "Horatio"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:77
+msgid "Kerin"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:89
+msgid "Mal Nezzar"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:134
+msgid "It doesn't look like anyone's been here in a long time."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:138
+msgid "That means it may still be here."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:142
+msgid "What is it we're looking for exactly?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:156
+msgid "Yikes!  The living dead!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:160
+msgid ""
+"They're called 'undead' and they can be destroyed just like any other "
+"enemy..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:174
+msgid "I wasn't expecting guests, what brings you to my humble cave?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:178
+msgid "I think you know why we're here."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:182
+msgid "You can't have it, go away!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:192
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:245
+msgid "Oh, the rebellion has failed..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:218
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:272
+msgid "This would have been easier with him..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:232
+msgid "Why do you humans want-"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:236
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:290
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:509
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:444
+msgid "Silence!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:249
+msgid "Why didn't you do that earlier?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:253
+msgid ""
+"It takes a lot of energy to crush them like that, we needed to weaken him "
+"first."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:261
+msgid "It looks like the mine continues, I'd better keep moving."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:273
+msgid "It feels like there is heat coming from up ahead."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:277
+msgid "Could be lava, hopefully we can still get through."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:281
+msgid "Is it wise to go in there?  Won't we succomb to the fumes?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:285
+msgid "We'll be fine."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:296
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:316
+msgid "This is taking a long time."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/F_Mines.cfg:300
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:320
+msgid "Yes, I fear we may have been away from the fort for too long..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:4
+msgid "Guardian"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:27
+msgid "Death of General Maskov"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:56
+msgid "Skurrior"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:73
+msgid "Mal Murmak"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:120
+msgid "It's definately getting hotter."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:124
+msgid "We're on the right path, we must keep moving."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:154
+msgid "The air down here is quite foul!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:169
+msgid "More undead!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:173
+msgid "Yes.  We got past them last time, we can do it again."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:195
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:464
+msgid "Holy Amulet"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:198
+msgid "This amulet will give melee weapons an arcane nature."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:226
+msgid "You are not welcome here!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:230
+msgid "Stand aside!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:234
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:266
+msgid "Fools..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:286
+msgid "Why are you-"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:297
+msgid "There he goes.  Both Lichs tried to ask something before you did that."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:301
+msgid ""
+"Lichs are not sane and not to be trusted.  This has taken much longer than I "
+"anticipated, I fear we may have been gone too long."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/G_Guardian.cfg:305
+msgid ""
+"Lorenzon, why don't you head back to clear a path to the fortress and assist "
+"in the defenses, I doubt Huric's forces have been idle.  General Maskov and "
+"I will continue onward, we should be close."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:4
+msgid "Royal Rumble"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:22
+msgid "Defeat Enemy Leaders"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:52
+msgid "Anders"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:84
+msgid "Prince Huric"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:104
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:111
+msgid "Huric's Bodyguard"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:120
+msgid "General Horton"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:139
+msgid "General Norton"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:53
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:98
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:159
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:192
+msgid "Scarrion"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:185
+msgid "Maskov"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:260
+msgid ""
+"This is rather rushed Minister Duval...  We're about to rush into a big "
+"battle, I don't appreciate being kept in the dark as to our plan.  What's "
+"going on?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:264
+msgid ""
+"It is amusing to hear you address that man as Duval - Duval died by my "
+"hand!  The old fool thought he could play King!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:268
+msgid "Don't listen to him Lorenzon, he's trying to distract you."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:272
+msgid ""
+"No, you're up to something.  You won't answer any of my questions, but "
+"answer this:  Who are you?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:276
+msgid "Very well.  I'm not Duval..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:298
+msgid ""
+"I am Lord Scarrion!  I needed to reach the portal, but my followers were few "
+"in number.  With the Royal Forces aboveground, and the undead guardians "
+"below, I never would have made it.  You have been a great help."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:302
+msgid "Portal?  Maskov!  What's going on!?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:196
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:184
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:306
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:330
+msgid "..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:310
+msgid ""
+"I know not what you are all babbling about, but you're going to regret "
+"toying with me!  Kill them!  All of them!!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:322
+msgid "What in the blazes is that?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:326
+msgid ""
+"That is one of General Maskov's soldiers!  The Good General was not very "
+"cooperative, but I made him and his men see the error of their ways..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:334
+msgid ""
+"Anders, focus on taking down madman Huric.  I'll take care of the imposter.  "
+"(Although it might be wise to let Scarrion and Huric fight each other for a "
+"few rounds...)"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:345
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:273
+msgid "Ugh.  What a mess..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:373
+msgid "As much as I enjoy a good fight, I have work to do."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:425
+msgid "What just happened, where did he go?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:440
+msgid "You cannot do this to me!  Don't you know who I am!?  Impudent-"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:448
+msgid "What have you done!?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:452
+msgid "Run for your lives!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/H_Rumble.cfg:463
+msgid ""
+"We needed to stop Scarrion's forces, but who knows how far they've spread..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:4
+msgid "Chase"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:50
+msgid "Varrak"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:127
+msgid ""
+"This may have been a waste of time, but let's go just a little further.  We "
+"may as well see what it was Scarrion wanted down here."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:131
+msgid "Yes, sir."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:145
+msgid "There are enemies ahead.  You were right!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:149
+msgid ""
+"So, either Scarrion is down here, or he felt this place was valuable enough "
+"to post guards.  Onward!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:161
+msgid "That 150 gold should help our finances..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:192
+msgid "General Maskov!  What's going on?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:200
+msgid "Well, at least we know we're on the right path..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:210
+msgid "Uhg...  Carry on..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:224
+msgid "I'm...?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:228
+msgid "Thank you, Lorenzon..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:232
+msgid "I tried to stop him, but he...  he..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:236
+msgid "He what?  What did he do?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:240
+msgid "he... (gasp)  ... don't let him do to you... what he...  did to me..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:244
+msgid "Maskov!  What did he do?  What did Scarrion do?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:248
+msgid "It's no use, he's dead..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:252
+msgid "Rest in peace, General.  We must keep moving..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/I_Chase.cfg:263
+msgid "This was a waste of time.  Time that we don't have..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:4
+msgid "The Pit"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:20
+msgid "Find Scarrion"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:170
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:101
+msgid "Tahn Garath"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:118
+msgid "Garath's Guide"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:124
+msgid "Garath's Lieutenant"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:132
+msgid "General Vazzan"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:213
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:220
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:227
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:234
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:241
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:205
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:211
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:217
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:223
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:229
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:169
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:176
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:183
+msgid "Guard"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:254
+msgid "Keeps getting hotter, we can't go much further..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:258
+msgid "I hear voices of the enemy!  The troll was right."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:262
+msgid "You talk too much, $supporter.user_description|."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:287
+msgid "We're under attack!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:291
+msgid "We must not let them disturb the rite!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:305
+msgid "That's right!  Kill them!  This hell-hole needs to be destroyed!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:309
+msgid ""
+"Wait!  We're not here to stop you, we're here to kill the evil wizard "
+"Scarrion."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:313
+msgid "Huh!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:317
+msgid "Well... "
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:321
+msgid ""
+"Okay.  That's why we're here, so I guess we're allies for now.  But you're "
+"still invader worms, so we'll deal with things topside."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:341
+msgid "Huh, a pile of trash...  Looks like it has been here for a long time."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:357
+msgid ""
+"These must be the remains of a king...  Huh, most of the remains crumble to "
+"dust, but this armor..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:363
+msgid "Ancient Armor"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:365
+msgid ""
+"This expensive looking armor is very light, but stronger than anything the "
+"Ukians had ever seen..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:394
+msgid "Gha...  There will be others...  We'll clean out this rat's nest..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:408
+msgid "Noooo!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:414
+msgid "Oh no!  Did he just escape again?!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:418
+msgid ""
+"He seemed more upset, I think we may have defeated him this time.  In any "
+"case, we need to get out of here."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:422
+msgid ""
+"We agreed not to fight each other down here.  We will honour that, but we "
+"will still drive you dogs out of the northlands!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:440
+msgid ""
+"A book, it looks like a diary.  I shouldn't pry, but let's see what the last "
+"page says..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:444
+msgid ""
+"These people are worse than I thought.  They aren't just violent madmen, the "
+"things they say are true.  There really are such gods and they really do "
+"reward such sadistic cruelty and senseless violence.  The nightmare of the "
+"last few days will be over soon, even if they don't find me.  I find solace "
+"in my faith and my gods are not like the ones that reign down here."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:460
+msgid "This skeleton clutches an amulet..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:467
+msgid "This amulet will make melee weapons holy."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:487
+msgid "Arhg!  I've fallen to infadels?!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:491
+msgid "He was only a guard.  The tunnel continues - so must we."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:500
+msgid "That can't be good, let's pick up the pace..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:510
+msgid "Time is running out.  Move!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:520
+msgid "What the hell was that!?!?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/J_Pit.cfg:524
+msgid "Haha!  The gods have arrived!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:4
+msgid "Ruin"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:40
+msgid "Lorenzon reaches the signpost to the south"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:48
+msgid "Three Civilians Die"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:88
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:94
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:100
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:106
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:112
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:118
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:124
+msgid "Civilian"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:132
+msgid "General Burress"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:185
+msgid "Deputy"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:193
+msgid "Hank Skoro"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:211
+msgid "Advisor"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:219
+msgid "Sak Skoro"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:239
+msgid "Squire"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:247
+msgid "Knafa Skoro"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:278
+msgid "Too late!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:282
+msgid ""
+"We've upheld our word and let you leave the cave, it can't be said Garath "
+"clan is without honour.  Now you die!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:286
+msgid ""
+"Haha, look!  One of the Garath banner is to the south, we have them "
+"surrounded!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:290
+msgid ""
+"Tahn Garath, we have fought side by side to save this land from evil.  Let "
+"us head south, we will bother you no more.  You will see that we Ukians are "
+"not without honour, and our word is also good."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:294
+msgid ""
+"Hmmm... You did fight off those other devils...  Very well, you can pass."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:298
+msgid ""
+"I reclaim this land for Garath Banner!  Skoro tribe must stand down and "
+"leave!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:302
+msgid "Like hell we will!  This land belongs to Skoro Banner!  Kill them!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:306
+msgid ""
+"An orcish feeding frenzy!  Lorenzon, I hope you're happy.  You brought this "
+"about - you destroyed Ukiah!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:310
+msgid ""
+"We need to get the people to the south end of the valley.  From there, we "
+"can head south to find new lands."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:314
+msgid ""
+"Right, go save your cowardly hides!  Those of us with a shred of honour will "
+"stay and fight!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:322
+msgid "Knafa should have been here by now, where is he?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:353
+msgid "Where have you been!?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:357
+msgid ""
+"I ran into a group of humans.   Had to take care of business, but I'm here "
+"now!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:361
+msgid "Well, some soft ones are trying to escape to the south.  Stop them!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:365
+msgid "I see them.  They won't get far."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:383
+msgid "$units_slain Civilian(s) Slain"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:402
+msgid ""
+"We're getting slaughtered!  Why did I ever listen to that evil old man..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:417
+msgid "Haha!  Cut them down!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:430
+msgid "Ugh, I shouldna ..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:434
+msgid "This is bad... "
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:438
+msgid ""
+"Tahn Garath spent much of his resources trying to kill Scarrion - this is "
+"the thanks he gets.  He was honorable for an orc, he won't be forgotten."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:449
+msgid "I spit on you stupid animals!  GRRAAAHhhhh!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:460
+msgid "Argh..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:464
+msgid ""
+"Good, that ought to get some of the pressure off.  We still need to head "
+"south."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:473
+msgid "Arg!  More bloodthirsty orcs, we'll never make it!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:488
+msgid "Damn it, Knafa!  You're letting them get away!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:492
+msgid "We'll catch them with riders, don't worry."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/K_Ruin.cfg:496
+msgid "Well, we're just about in the clear.  Take a good last look at Ukiah..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:4
+msgid "A New Home"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:40
+msgid "Clear the land of enemies"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:48
+msgid "Stray into the Southern Forrest"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:51
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:52
+msgid "Time runs out"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:148
+msgid "Mal Vermin"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:169
+msgid "Muff Kord"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:192
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:190
+msgid "Valeron"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:238
+msgid ""
+"It gets warmer further south, but there is something strange about the "
+"forrests."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:242
+msgid "What do you mean by 'strange'?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:246
+msgid ""
+"I would see movement from the corner of my eye, but could never get a direct "
+"sighting.  I felt I was being watched.  Also, the dogs didn't come back, "
+"it's as if they were just swallowed by the woods."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:250
+msgid ""
+"So, the woods are inhabitted by something or someone that may prey upon us.  "
+"We should avoid going any further down the road until we know this land "
+"better.  We haven't seen any orcs in a while, this looks like a good place "
+"to settle for now-"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:254
+msgid ""
+"No settling!  We've noticed you scampering around, you'll make fine "
+"subjects..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:258
+msgid ""
+"Undead!  Well, we know how to deal with those.  Let us clear this land of "
+"their foul presence.  And remember, stay out of the southern forrest."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:262
+msgid "Yessir!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:298
+msgid "Tresspassers die!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:312
+msgid "More death!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:325
+msgid "This wasnn..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:336
+msgid "IEEEeeee...."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:340
+msgid ""
+"Good riddence.  Some cleaning up to do, but the old keep should serve as a "
+"base camp."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/L_Home.cfg:349
+msgid ""
+"I hear the drums of orcs, they must have heard the sounds of fighting.  "
+"We're screwed!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:4
+msgid "Old Friend"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:39
+msgid "Defeat enemy leaders"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:47
+msgid "Death of Valeron"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:123
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:129
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:135
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:141
+msgid "Loyal Follower"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:149
+msgid "Tank Skoro"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:298
+msgid "Sir!  Orcs have been sighted coming down from the northern pass!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:302
+msgid ""
+"It was only a matter of time.  We can't flee into the southern forrest, we "
+"have to make a stand here.  All civilians need to hide."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:306
+msgid ""
+"Ha!  We came for the strong wood of the forrest, and found the human "
+"scoundrels!  Garath tribe may have had a soft spot for you, little people, "
+"but they are no more!  Prepare to die!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:310
+msgid ""
+"Hold on there, what's this talk about 'strong wood of the forrest'?  Stay "
+"away from these woods, vile orc!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:314
+msgid ""
+"Elves!  This day just gets better and better!  We'll feed the humans and "
+"elves to our wolves and take the wood from the forrest.  Skoro Banner will "
+"be the greatest army in the North!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:318
+msgid ""
+"Elf King, we are both enemies of these orcs.  Why don't we form an alliance "
+"to drive them back?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:322
+msgid ""
+"I'm not a king, but yes we are both enemies of the orcs.  We have been "
+"watching you and you seem to avoid our woods.  Continue to do so and I think "
+"we can be allies."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:357
+msgid "Carry on..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:370
+msgid "Not very effective allies..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:382
+msgid "Exhausted Knight"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:388
+msgid "Chief!  There's a-"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:392
+msgid "What the hell are you doing back there!?  Get out and fight!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:396
+msgid "But there's an enemy-"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:400
+msgid ""
+"I gave you an order, runt!  Brave warriors die while you blubber behind the "
+"lines!  Get out there and fight before I break your scrawny neck!!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:451
+msgid "Well, well..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:455
+msgid "Who the hell are you?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:459
+msgid "This is bad.  I thought we killed him..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:463
+msgid ""
+"Oh you came close, Lorenzon.  You've humiliated me in front of my gods, but "
+"my loyal followers and I will have our revenge!  My gods have given me a new "
+"mission, and I will not let them down!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:478
+msgid ""
+"We've seen this before, remember General Maskov?  He's using posessed "
+"fighters.  Those poor souls must have been harvested from the surviving "
+"members of Huric's forces.  I believe the chaos gods have given the little "
+"snake a demotion!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:482
+msgid ""
+"I can hear you, Lorenzon!  I'm not finished, you'll not speak of me that way "
+"much longer!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:486
+msgid "What the hell are you talking about?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:490
+msgid ""
+"Oh, it's a petty human thing.  No need to involve a mental giant such as "
+"yourself."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:494
+msgid "(Mental giant?)  Grrr!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:505
+msgid "No!  How can I fall-"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:513
+msgid ""
+"The orc leader has fallen!  When we've cleared out the remaining hostiles, "
+"we can discuss the terms of our alliance."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:517
+msgid ""
+"There is not much to discuss.  You help keep the orcs from entering our "
+"woods, and stay out yourselves.  Similarly, we help you defend your plain "
+"but otherwise do not move into your land."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:521
+msgid "Fair enough."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:532
+msgid "No!  We're not finished!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:536
+msgid "Lorenzon - you're coming with me!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:541
+msgid "What the - "
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/M_Home2.cfg:557
+msgid ""
+"More orcs!  You people are not very effective at fighting them, an alliance "
+"would be more trouble than it's worth."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:4
+msgid "Madness"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:20
+msgid "Survive until end of turns."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:79
+msgid "Suprise!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:83
+msgid "What is this?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:87
+msgid "Start running..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:96
+msgid "Uh-oh."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:100
+msgid "Dont stop, Lorenzon."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:108
+msgid "(What could he possibly be hoping to accomplish with this stupid game?)"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:116
+msgid ""
+"Scarrion, what is the point of this?  Either fight me or kill me, why engage "
+"in this madness?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:120
+msgid ""
+"Is it madness?  You and the orcs slaughter each other regularly for the "
+"right to live in a frozen wasteland.  Your royal friends from the south had "
+"wealth and resources, but what did they accomplish?  Then-"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:124
+msgid "Forget it...  (Why did I ask...)"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:133
+msgid "(Something's wrong...  I don't feel so well...)"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:142
+msgid "(What's...  I must keep moving...)"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:150
+msgid "What... (Gasp!)"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:161
+msgid "I guess I was wrong about you..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:172
+msgid "(Gasp!)  I...  No..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:176
+msgid ""
+"So Lorenzon!  You cannot deny the Truth!  Power, fear, lies - that's all "
+"there is...  It's a dog-eat-dog world - are you strong enough to accept it?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:180
+msgid "No!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:188
+msgid "Yes?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:192
+msgid "Yes!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/N_Revenge.cfg:196
+msgid "I think we're done here..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:4
+msgid "Epilog"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:105
+msgid "He's awake!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:109
+msgid "Sir, do you know where you are?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:113
+msgid ""
+"We're just north of the Elf Forrest.  We were fighting orcs and Scarrion - "
+"what happened?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:117
+msgid ""
+"Scarrion died with a flash.  When our eyes cleared, we saw that you too had "
+"fallen.  We took you back to the keep."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:121
+msgid ""
+"With the help of the elves, we kept the enemy fighters to the east of the "
+"river."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:125
+msgid "So Scarrion got away again?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:129
+msgid ""
+"No, his corpse was torn to pieces by the surviving orcs.  I'm about as sure "
+"as I can be that he's gone."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:133
+msgid ""
+"So you're awake!  Do you mind explaining what happened?  Who was that "
+"warlock?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:137
+msgid ""
+"I'm not sure what happened, Elf Leader.  That wizard was an old foe, one "
+"whom I had thought dead...  Unlike the last time, his corpse was seen and "
+"destroyed.  He should bother us no more."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:141
+msgid ""
+"I see.  Well then, peace be with you.  I doubt we'll see the orcs again "
+"soon, they were not expecting such a battle!"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:145
+msgid "Let us hope.  Peace be with you."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:153
+msgid "Did you just hear something?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:157
+msgid "No, what was it?"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:161
+msgid "It sounded like laughter...  It was probably nothing..."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:165
+msgid "(My mind spins, I feel a...)"
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:177
+msgid "#Ha ha ha!  Rest up, Lorenzon."
+msgstr ""
+
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:182
+msgid "#We've got a lot of work to do..."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Arctic_Wolf.cfg:5
+msgid "Arctic Wolf"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Arctic_Wolf.cfg:18
+msgid ""
+"Arctic wolves are adapted to life on the tundra.  They are probably related "
+"to the domesticated Ukian dogs, but they are significantly larger."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Arctic_Wolf.cfg:29
+#: Bad_Moon_Rising/units/Ukian_Dog.cfg:33
+msgid "fangs"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Dark_Commander.cfg:5
+msgid "Dark Commander"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Dark_Commander.cfg:19
+msgid ""
+"A Dark Commander was most likely a human General before he was captured by "
+"demonic forces.  No longer quite human, he is used to bring pain and death "
+"to his former friends.\n"
+"\tSpecial Note: "
+msgstr ""
+
+#: Bad_Moon_Rising/units/Dark_Commander.cfg:34
+msgid "Ice Brand"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Dark_Commander.cfg:46
+msgid "Icebow"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Grim_Bowman.cfg:4
+msgid "Dark Bowman"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Grim_Bowman.cfg:19
+msgid ""
+"Veteran Shooters know how to inflict greater damage, but are still pawns."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Grim_Shooter.cfg:66
+#: Bad_Moon_Rising/units/Grim_Bowman.cfg:67
+msgid "short sword"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Commander.cfg:58
+#: Bad_Moon_Rising/units/Grim_Shooter.cfg:75
+#: Bad_Moon_Rising/units/Grim_Bowman.cfg:76
+msgid "crossbow"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Grim_Damned.cfg:4
+msgid "Damned"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Grim_Damned.cfg:19
+msgid ""
+"The conscripted forces are just pawns, but those that manage to survive "
+"attract the interest of their demonic captors.  Though they can never become "
+"daemons (not that they would want to), they are given certain gifts."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Grim_Soldier.cfg:67
+#: Bad_Moon_Rising/units/Grim_Damned.cfg:112
+msgid "pike"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Grim_Damned.cfg:124
+msgid "Daemon Lore"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Grim_Horseman.cfg:4
+msgid "Grim Horseman"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Grim_Horseman.cfg:20
+msgid ""
+"A scythe is an awkward weapon, but the symbolism does strike terror into "
+"many enemies.   The Grim Horsemen are former humans enslaved to the "
+"daemons.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Grim_Horseman.cfg:31
+msgid "scythe"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Grim_Shooter.cfg:4
+msgid "Dark Shooter"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Grim_Shooter.cfg:18
+msgid ""
+"The possesed forces were once regular human soldiers, but have been "
+"unwillingly conscripted by the dark forces of Chaos and are no longer in "
+"control of themselves."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Grim_Soldier.cfg:4
+msgid "Dark Impaler"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Grim_Soldier.cfg:20
+msgid ""
+"Experienced Troopers become Impalers and are a little stronger.  There can't "
+"really be any promotions for the posessed...\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Grim_Trooper.cfg:4
+msgid "Dark Trooper"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Grim_Trooper.cfg:20
+msgid ""
+"The posessed forces were once regular human soldiers, but have been "
+"unwillingly conscripted by the dark forces of Chaos and are no longer in "
+"control of themselves.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Runner.cfg:31
+#: Bad_Moon_Rising/units/Ukian_Courrier.cfg:35
+#: Bad_Moon_Rising/units/Ukian_Regular.cfg:38
+#: Bad_Moon_Rising/units/Ukian_Commander.cfg:67
+#: Bad_Moon_Rising/units/Grim_Trooper.cfg:69
+#: Bad_Moon_Rising/units/Ukian_Commando.cfg:38
+#: Bad_Moon_Rising/units/Ukian_Subcom.cfg:63
+msgid "spear"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Sun_Dog.cfg:5
+msgid "Sun Dog"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Sun_Dog.cfg:17
+msgid ""
+"Sun dogs are half-formed spirits from the chaotic world of the Daemons.  "
+"While not very powerful, they can momentarily blind an enemy effectively "
+"slowing them down."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Sun_Dog.cfg:25
+msgid "flash"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Archer.cfg:4
+msgid "Ukian Archer"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Archer.cfg:19
+msgid ""
+"Due to the need for everyone to be able to fend off an orc, all Ukian women "
+"learn archery."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Commando.cfg:50
+#: Bad_Moon_Rising/units/Ukian_Archer.cfg:30
+msgid "dagger"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Hawkeye.cfg:39
+#: Bad_Moon_Rising/units/Ukian_Hawkeye.cfg:48
+#: Bad_Moon_Rising/units/Ukian_Deadeye.cfg:44
+#: Bad_Moon_Rising/units/Ukian_Deadeye.cfg:53
+#: Bad_Moon_Rising/units/Ukian_Archer.cfg:39
+msgid "bow"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Commander.cfg:4
+msgid "Ukian Commander"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Commander.cfg:26
+msgid ""
+"Commanders are the military leaders of the Ukians.  They get the few "
+"crossbows preserved from the old days, and heavier armor.  They continue to "
+"use a spear, but have traded the sword for a shield."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Commander.cfg:46
+msgid "shield"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Commando.cfg:4
+msgid "Ukian Commando"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Commando.cfg:20
+msgid ""
+"The best Courriers become Commandos, getting better equipment and greater "
+"responsibility.  They've had so much practice at evading orcs under the "
+"cover of night, they become almost invisible."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Runner.cfg:43
+#: Bad_Moon_Rising/units/Ukian_Courrier.cfg:47
+#: Bad_Moon_Rising/units/Ukian_Commando.cfg:62
+msgid "sling"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Commando.cfg:71
+#: Bad_Moon_Rising/units/Ukian_Subcom.cfg:54
+msgid "javelin"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Courrier.cfg:4
+msgid "Ukian Courrier"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Courrier.cfg:19
+msgid ""
+"Runners who have proven themselves are given more allowance for supplies "
+"because they are entrusted with more important correspondenses.  Still, they "
+"travel light, so the sling is their weapon of choice."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Deadeye.cfg:4
+msgid "Ukian Deadeye"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Deadeye.cfg:20
+msgid ""
+"Ukian Deadeyes have been roaming the forrest for a long time and can move "
+"about undetected.  They can launch many missiles, or they can take a tactic "
+"from the orcs and launch more destructive (but slower to load) fire arrows."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Hawkeye.cfg:30
+#: Bad_Moon_Rising/units/Ukian_Deadeye.cfg:35
+#: Bad_Moon_Rising/units/Ukian_Subcom.cfg:45
+#: Bad_Moon_Rising/units/Ukian_Veteran.cfg:40
+msgid "sword"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Dog.cfg:5
+msgid "Attack Dog"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Dog.cfg:19
+msgid ""
+"Dogs are not high maintanence and are useful allies when hunting or "
+"scouting.  Attack Dogs are weak but fast and nimble so they are good at "
+"causing havoc behind enemy lines, but not so good at holding a line.  The "
+"life of an attack dog is usually short, but they do get tougher with "
+"experience."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Flareman.cfg:4
+msgid "Ukian Flareman"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Flareman.cfg:33
+msgid ""
+"Flaremen are elite Signalmen who carry brighter flames, for greater "
+"broadcast strength.  The brilliance of the flames made combat with orcs a "
+"little easier.  They've grown accustomed to the heat, so they have a "
+"resistance to flame attacks."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Signalman.cfg:46
+#: Bad_Moon_Rising/units/Ukian_Flareman.cfg:56
+msgid "axe"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Signalman.cfg:55
+#: Bad_Moon_Rising/units/Ukian_Flareman.cfg:65
+msgid "torch"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Hawkeye.cfg:4
+msgid "Ukian Hawkeye"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Hawkeye.cfg:19
+msgid ""
+"It's not that easy to accurately fire a bow, the Hawkeyes' secret is their "
+"ability to fire off so many shots.  They can also take a tactic from the "
+"orcs and launch more destructive (but slower to load) fire arrows."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Regular.cfg:4
+msgid "Ukian Regular"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Regular.cfg:21
+msgid ""
+"Ukian Regulars carry a spear because spears are relatively inexpensive.  "
+"Like all Ukians, they are accustomed to life on the tundra, and know how to "
+"maintain their footing in the snow.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Regular.cfg:50
+msgid "Throwing Knife"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Runner.cfg:4
+msgid "Ukian Runner"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Runner.cfg:20
+msgid ""
+"Because there were no horses in Ukiah, the scouts and messengers travelled "
+"by foot, learning to keep pace even over icy terrain.  To avoid being "
+"spotted, they prefer to travel under the cover of darkness.  They can't "
+"carry heavy armor and supplies while maintaining their agility, so they are "
+"experts at the sling, a weapon for which they don't need to carry the "
+"ammunition."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Seeress.cfg:4
+msgid "Ukian Seeress"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Seeress.cfg:19
+msgid ""
+"So much knowledge was lost during the orcish raids.  The Seeresses can't "
+"completely form and control a missile, but they can send out a shockwave "
+"that will stun the enemy if it manages to connect.  They also study the "
+"healing arts."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Seeress.cfg:33
+#: Bad_Moon_Rising/units/Ukian_Witch.cfg:38
+msgid "staff"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Seeress.cfg:42
+#: Bad_Moon_Rising/units/Ukian_Witch.cfg:47
+msgid "shockwave"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Signalman.cfg:4
+msgid "Ukian Signalman"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Signalman.cfg:29
+msgid ""
+"Ice, snow, and rough terrain can make it too slow or treacherous to send "
+"messages via Runner.  Flames can be seen from a distance, so Signalmen send "
+"coded messages by waving a torch and passing their axe in front.  Standing "
+"on top of a hill waving a torch attracts a lot of unwanted attention, so the "
+"signal corps is composed of strong fighters."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Subcom.cfg:4
+msgid "Ukian Subcommander"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Subcom.cfg:25
+msgid ""
+"Successful Veterans become Subcommanders.  They are responsible for more "
+"fighters, so they carry a shiny-headed spear, which can be raised higher "
+"than a sword."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Veteran.cfg:4
+msgid "Ukian Veteran"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Veteran.cfg:25
+msgid ""
+"The Ukian Officers are veteran Regulars, the Ukians didn't have a class "
+"structure before the arrival of the King."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Veteran.cfg:49
+msgid "throwing knife"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Witch.cfg:4
+msgid "Ukian Witch"
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Witch.cfg:20
+msgid ""
+"Ukian Witches are both proficient in the healing arts and resistent to the "
+"elements.   Magic attacks are of a different nature, it is difficult to be "
+"masters of them as well.  Nevertheless, they have managed to control the "
+"unformed blast into an electric strike.  The uncontrolled blast is easiest "
+"to form, so they have not abandoned it."
+msgstr ""
+
+#: Bad_Moon_Rising/units/Ukian_Witch.cfg:59
+msgid "strike"
+msgstr ""
+
+#: Bad_Moon_Rising/utils/camp.cfg:6
+msgid ""
+"Saving the hamlet from the Prince's men made them heroes, but everyone knew "
+"the Royalists would be back for revenge.  They gathered what they could "
+"carry and evacuated the village."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/camp.cfg:10
+msgid ""
+"The evacuees went with Lorenzon's forces into the forrest, where the rebels "
+"had a set up a camp."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/chase.cfg:6
+msgid ""
+"Huric was defeated, but it was a hollow victory.  The rebels had been "
+"unwitting tools of some sort of evil wizard, and now the small kingdom was "
+"in more danger than ever before."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/chase.cfg:14
+msgid ""
+"Scarrion was on the loose, and had apparently amassed an army of foreign "
+"fighters.  It was also quite likely that the orcs would eventually close in, "
+"once they figured out that Ukiah was vulnerable."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/chase.cfg:38
+msgid ""
+"There was no time to waste.  Lorenzon figured that Scarrion was the worse "
+"threat for now, and had to be stopped at all cost.  Scouts couldn't find any "
+"trace,  the only place Lorenzon could guess to look was back in the old "
+"mine..."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/defend.cfg:6
+msgid ""
+"Against his better judgement, Lorenzon sent a runner to deliver the maccabre "
+"gift to Huric."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/defend.cfg:18
+msgid ""
+"The runner never returned, but a day later scouts came bringing word of a an "
+"advancing force from the south."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/defend.cfg:30
+msgid ""
+"The scouts said the forces were led by a General Maskov.  Maskov was a "
+"capable officer, but not one of Huric's inner circle.  That is probably why "
+"Huric sent him first - the Prince no doubt had a larger, more valued force "
+"not far behind."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/fort.cfg:6
+msgid ""
+"News of General Burton's defeat at the hands of Lorenzon's forces spread far "
+"and wide.  There was no shortage of new recruits or basic supplies, but the "
+"rebels were still no match for the Prince or probably even the orcs."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/fort.cfg:10
+msgid ""
+"They would need some of the Royalists to join their side.  Lorenzon was not "
+"trying to drive off the southerners, just the Prince and his ilk."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/fort.cfg:14
+msgid ""
+"Lorenzon found Duval's behaviour a bit odd, but ascribed it to the fact that "
+"the minister was out of his element and not used to running around in the "
+"snow."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/fort.cfg:18
+msgid ""
+"Duval suggested that if they could capture the nearby Fort Khule, they would "
+"have a stronghold and a symbol of hope for the Ukian rebels."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/fort.cfg:26
+msgid ""
+"Lorenzon knew they couldn't keep running around in the woods, especially "
+"with a growing number of civilians.  But attacking a fortress was going to "
+"attract a lot of attention, and actually capturing it was not going to be "
+"easy.  Still, he had to do something.  If given the chance, he would try to "
+"get some of the Royal forces to join the rebel side."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/home.cfg:4
+msgid ""
+"The Ukians fled south.  Fighting between Skoro and Garath banners would buy "
+"some time, but Skoro was clearly going to win.  Fortunately, the Ukians were "
+"faster and better organized, so even wolf riders couldn't hem them in."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/home.cfg:8
+msgid ""
+"They didn't have to travel too far south before the ground started to warm "
+"up.  This was a blessing and a curse:  While the climate was less harsh, the "
+"flora and fauna were somewhat unfamiliar and the Ukians didn't really know "
+"what they were heading into.  The southern settlers among them had passed "
+"through years ago, but not even they knew what could be here now..."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/intro.cfg:6
+msgid ""
+"This campaign takes place around 960 YW - some years after Son of the Black "
+"Eye but well before Under the Burning Suns.  Wesnoth had expanded it's "
+"territory into the north, but the kingdom has passed its prime and is "
+"beginning to collapse from within."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/intro.cfg:9
+msgid ""
+"Ukiah was a northern territory populated by descendants of nomads and "
+"Wesnoth settlers.  The orcs were not happy about Wesnoth's encroachment, and "
+"frequently raided and terrorized the Ukians in the hopes of driving them "
+"back south.  When Weldyn decided it needed to direct its resources "
+"elsewhere, and left Ukiah to fend for itself, life got very difficult."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/intro.cfg:10 Bad_Moon_Rising/utils/intro.cfg:14
+#: Bad_Moon_Rising/utils/intro.cfg:18
+msgid "maps/northlands.jpg"
+msgstr ""
+
+#: Bad_Moon_Rising/utils/intro.cfg:13
+msgid ""
+"The horses, scholars, stables, and libraries proved too difficult to "
+"maintain and defend, so equestrian and most magical knowledge was lost.  The "
+"Ukians could not hope to overpower the orcish raiders, so they developed a "
+"vast sentry network that could communicate long distances via torch "
+"semaphores.  If that failed, the Ukians could rely on the keen senses of "
+"their dogs to alert them that something bad was about to happen.  When the "
+"raiders would arrive at the Ukian settlment, they would find it abandoned."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/intro.cfg:17
+msgid ""
+"Another tactic was to teach all females archery, because the orcish grunts "
+"and wolf riders had no means to shoot back."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/intro.cfg:21
+msgid ""
+"One day, a young prince rode with an army up from the south.  He had the "
+"resources to push the orcs back and create a safe territory where the Ukians "
+"did not need to break camp before an orcish raid.  The Ukians were grateful "
+"and when the prince married one of their own women, he became their King."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/intro.cfg:25
+msgid ""
+"The king and queen were able to maintain stability so that trade and "
+"scholarship were once again possible.  Unfortunately, they proved unable to "
+"raise their only son.  Prince Huric was a very talented fighter and could be "
+"very charming when he wanted to be, but he seemed to lack any concience or "
+"empathy."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/intro.cfg:29
+msgid ""
+"When the King died, Huric assumed the throne.  His reign was characterized "
+"by rampant cronyism and cruelty.  Huric promoted his friends to high "
+"positions, neglected civil maintnance, and executed those who displeased "
+"him.  He was running Ukiah into the ground, ruining what his father had "
+"built."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/intro.cfg:33
+msgid ""
+"One person from the old regime who still maintained some power was Minister "
+"Duval, who was charged with actually implementing Royal policies.  It was an "
+"open secret that many of the (sane) Royal edicts and decrees were actually "
+"from Duval.  As long as Duval concerned himself with road maintenance and "
+"the like, Huric didn't care."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/intro.cfg:37
+msgid ""
+"The Ukians knew their small nation was sliding back into the bad old days, "
+"and there was a lot of tension.  That tension boiled over to unrest and rage "
+"one day, sparked off by a particularly despicable action by the Prince."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/intro.cfg:41
+msgid ""
+"A wedding was taking place in one of the small villages the Prince often "
+"rode past on his way to hunt in the forest.  He was in a foul mood, and the "
+"sounds of celebration were grating to his ears."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/intro.cfg:49
+msgid ""
+"All celebration stopped when Huric and his men approached with weapons "
+"drawn.  The soldiers held the villagers at knifepoint while the Prince "
+"disgraced the bride and set fire to the new home.  As he and his men were "
+"leaving, a couple of enraged villagers attacked, so Huric ordered everyone "
+"killed and all the houses burned to the ground."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/intro.cfg:57
+msgid ""
+"Prince Huric often treated the peasants like trash, but this time he had "
+"gone too far.  The families of the slain bride and groom were both well "
+"known and respected, and had many members in the armed forces.  Some were "
+"even officers."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/intro.cfg:61
+msgid ""
+"This story concerns one such officer, Lieutenant Lorenzon, who was at the "
+"center of the events that followed."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/items.cfg:23
+msgid "Ow!"
+msgstr ""
+
+#: Bad_Moon_Rising/utils/items.cfg:42
+msgid "Woof!"
+msgstr ""
+
+#: Bad_Moon_Rising/utils/items.cfg:67
+msgid "Ancient Ring"
+msgstr ""
+
+#: Bad_Moon_Rising/utils/items.cfg:70
+msgid ""
+"This tarnished ring gives the wearer a strength and hardiness from an age of "
+"heroes."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/mines.cfg:6
+msgid ""
+"Lorenzon was relieved that a southern General had joined their side.  Now "
+"the Prince would not be able to drive that wedge between the settlers and "
+"the Ukians.  However, the Royal army was still much too powerful for them."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/mines.cfg:10
+msgid ""
+"Duval mentioned that there was a powerful artifact hidden underground, and "
+"that finding it would tip the balance of power to the rebel side.  He was a "
+"little vague on the details, probably because he had never seen the artifact "
+"himself.  But he did know that it was in a nearby abandoned mine."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/mines.cfg:18
+msgid "So, off they went.."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/rescue.cfg:6
+msgid ""
+"Lorenzon felt bad about the death of his colleague Cantwell.  Cantwell "
+"called Lorenzon a traitor, but what was he betraying?  Lorenzon's loyalty "
+"was to Ukiah, not to that animal Huric."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/rescue.cfg:10
+msgid ""
+"Although he had never met Duval before today, Lorenzon had heard of Duval's "
+"interventions and regarded him as a hero of sorts.  But the way he had "
+"behaved during the riot was ham-fisted and caused much difficulty."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/rescue.cfg:14
+msgid ""
+"Now Lorenzon had to think about how this impromptu rebellion was going to "
+"survive long enough to accomplish anything."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/rescue.cfg:18
+msgid "The rebels retreated to the woods to buy some time."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/rescue.cfg:26
+msgid ""
+"Lorenzon had been proud to wear the shiny Lieutenants uniform, but no "
+"longer.  He and his followers decided that he would reconstitute the forces "
+"that had allowed their people to survive the orcish raids.  When they grew "
+"stong enough, they would overthrow Huric, and Minister Duval would oversee "
+"the revival of the kingdom."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/ruin.cfg:7
+msgid ""
+"With Scarrion defeated, the deamons disappeared and the chaos followers "
+"scattered.  Lorenzon did not fully comprehend just how close to ruin the "
+"world had come, but he knew they had all just averted something very bad."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/ruin.cfg:11
+msgid ""
+"He also knew that it was dangerous to have his forces down in the cave while "
+"most of the citizens of Ukiah were up above."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/ruin.cfg:15
+msgid ""
+"Monster that he was, Huric had kept the orcs at bay.  With him gone, the "
+"royal forces were disorganized.  It was only a matter of time before the "
+"orcs noticed the infighting between loyalists and rebels, and wiped them all "
+"out.  If Lorenzon could get back to restore order before then..."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/rumble.cfg:6
+msgid ""
+"Lorenzon hurried back to the fort, but the rebels were not under attack."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/rumble.cfg:14
+msgid ""
+"Duval came back a day later and said they must attack Huric with all haste."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/rumble.cfg:22
+msgid ""
+"According to Duval, another rebellion had errupted and half of Huric's "
+"forces were dispatched to quell it."
+msgstr ""
+
+#: Bad_Moon_Rising/utils/rumble.cfg:42
+msgid ""
+"Lorenzon, of course, wanted to know whether Duval and Maskov had found the "
+"artifact and what it was.  Duval promised Lorenzon he would see for himself, "
+"in due time.  For now, they must assault Huric."
+msgstr ""
