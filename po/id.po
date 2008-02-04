@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-01-28 20:40+0100\n"
+"POT-Creation-Date: 2008-02-04 01:18+0100\n"
 "PO-Revision-Date: 2008-01-28 20:40+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -42,9 +42,18 @@ msgstr ""
 msgid ""
 "The best of intentions often do not lead to the best results.  The Prince "
 "was a monster, but while overthrowing him, Officer Lorenzon unwittingly "
-"unleashes an even greater evil on the world.  (This campaign introduces a "
-"new faction.  Requires Extended Era.  There are 14 scenarios playable, they "
-"still need balancing if not debugging.)"
+"unleashes an even greater evil on the world.  (Requires Extended Era.  There "
+"are 14 scenarios playable, they still need balancing if not debugging.  The "
+"Ukians faction needs balancing, so this comes with an MP era.  If it causes "
+"problems, you can remove the two files in Bad_Moon_Rising/eras.)"
+msgstr ""
+
+#: Bad_Moon_Rising/eras/ukians_Era.cfg:6
+msgid "Ukian Era"
+msgstr ""
+
+#: Bad_Moon_Rising/eras/ukians_MP.cfg:5
+msgid "Ukians"
 msgstr ""
 
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:4
@@ -177,7 +186,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/C_Camp.cfg:185
 #: Bad_Moon_Rising/scenarios/D_Fort.cfg:160
 #: Bad_Moon_Rising/scenarios/B_Rescue.cfg:174
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:139
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:147
 msgid "THAT is what happens to traitors!"
 msgstr ""
 
@@ -270,7 +279,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/C_Camp.cfg:198
 #: Bad_Moon_Rising/scenarios/D_Fort.cfg:173
 #: Bad_Moon_Rising/scenarios/B_Rescue.cfg:187
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:152
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:160
 msgid "We had just started..."
 msgstr ""
 
@@ -352,7 +361,7 @@ msgstr ""
 
 #: Bad_Moon_Rising/scenarios/C_Camp.cfg:212
 #: Bad_Moon_Rising/scenarios/D_Fort.cfg:187
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:166
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:174
 msgid "Traitor..."
 msgstr ""
 
@@ -505,80 +514,80 @@ msgstr ""
 msgid "General Maskov"
 msgstr ""
 
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:84
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:92
 msgid "Secco"
 msgstr ""
 
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:90
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:98
 msgid "Hondo"
 msgstr ""
 
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:109
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:117
 msgid "Here they come..."
 msgstr ""
 
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:113
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:121
 msgid "Exactly as you thought, Sir.  The rebels have captured Fort Khule."
 msgstr ""
 
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:117
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:125
 msgid "We have to get it back.  Move!"
 msgstr ""
 
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:128
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:136
 msgid "Down, cur!"
 msgstr ""
 
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:170
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:178
 msgid ""
 "I am tired of hearing that.  The Prince is a madman, and those who enable "
 "him are the traitors.  I'm trying to re-establish the rule of law!"
 msgstr ""
 
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:174
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:202
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:182
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:210
 msgid ""
 "You have an interesting way of doing that - sending Huric General Drago's "
 "head in a box!"
 msgstr ""
 
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:178
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:206
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:186
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:214
 msgid ""
 "(That was not my idea...)  Drago died in battle, I did not execute him.  The "
 "prince has done things much worse and will continue to do so unless he is "
 "stopped."
 msgstr ""
 
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:182
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:190
 msgid ""
 "I believe you, Lorenzon, and I wish we were not being led by that fool.  If "
 "allowed to live, I offer to join you in this task to re-establish the rule "
 "of law."
 msgstr ""
 
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:186
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:194
 msgid "You may live.  If you truely believe in our cause, you are welcome."
 msgstr ""
 
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:194
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:202
 msgid ""
 "Why are you doing this?  Just what are you hoping to accomplish, traitor?"
 msgstr ""
 
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:198
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:206
 msgid ""
 "Don't call me a traitor!  The Prince is a madman, and those who enable him "
 "are the traitors.  I'm trying to re-establish the rule of law."
 msgstr ""
 
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:210
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:218
 msgid ""
 "I believe you, Lorenzon, and I wish we were not being led by that fool - I "
 "offer to join you in this task to re-establish the rule of law."
 msgstr ""
 
-#: Bad_Moon_Rising/scenarios/E_Defend.cfg:214
+#: Bad_Moon_Rising/scenarios/E_Defend.cfg:222
 msgid "If you truely believe in our cause, you are welcome."
 msgstr ""
 
@@ -1804,15 +1813,15 @@ msgstr ""
 msgid "It sounded like laughter...  It was probably nothing..."
 msgstr ""
 
-#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:165
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:172
 msgid "(My mind spins, I feel a...)"
 msgstr ""
 
-#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:177
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:179
 msgid "#Ha ha ha!  Rest up, Lorenzon."
 msgstr ""
 
-#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:182
+#: Bad_Moon_Rising/scenarios/O_Epilog.cfg:184
 msgid "#We've got a lot of work to do..."
 msgstr ""
 
@@ -1827,7 +1836,7 @@ msgid ""
 msgstr ""
 
 #: Bad_Moon_Rising/units/Arctic_Wolf.cfg:29
-#: Bad_Moon_Rising/units/Ukian_Dog.cfg:33
+#: Bad_Moon_Rising/units/ukians/Ukian_Dog.cfg:33
 msgid "fangs"
 msgstr ""
 
@@ -1865,8 +1874,8 @@ msgstr ""
 msgid "short sword"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Commander.cfg:58
 #: Bad_Moon_Rising/units/Grim_Shooter.cfg:75
+#: Bad_Moon_Rising/units/ukians/Ukian_Commander.cfg:58
 #: Bad_Moon_Rising/units/Grim_Bowman.cfg:76
 msgid "crossbow"
 msgstr ""
@@ -1944,13 +1953,13 @@ msgid ""
 "Special Notes:"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Runner.cfg:31
-#: Bad_Moon_Rising/units/Ukian_Courrier.cfg:35
-#: Bad_Moon_Rising/units/Ukian_Regular.cfg:38
-#: Bad_Moon_Rising/units/Ukian_Commander.cfg:67
 #: Bad_Moon_Rising/units/Grim_Trooper.cfg:69
-#: Bad_Moon_Rising/units/Ukian_Commando.cfg:38
-#: Bad_Moon_Rising/units/Ukian_Subcom.cfg:63
+#: Bad_Moon_Rising/units/ukians/Ukian_Runner.cfg:46
+#: Bad_Moon_Rising/units/ukians/Ukian_Courrier.cfg:35
+#: Bad_Moon_Rising/units/ukians/Ukian_Regular.cfg:32
+#: Bad_Moon_Rising/units/ukians/Ukian_Commander.cfg:67
+#: Bad_Moon_Rising/units/ukians/Ukian_Commando.cfg:37
+#: Bad_Moon_Rising/units/ukians/Ukian_Subcom.cfg:60
 msgid "spear"
 msgstr ""
 
@@ -1969,100 +1978,100 @@ msgstr ""
 msgid "flash"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Archer.cfg:4
+#: Bad_Moon_Rising/units/ukians/Ukian_Archer.cfg:4
 msgid "Ukian Archer"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Archer.cfg:19
+#: Bad_Moon_Rising/units/ukians/Ukian_Archer.cfg:19
 msgid ""
 "Due to the need for everyone to be able to fend off an orc, all Ukian women "
 "learn archery."
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Commando.cfg:50
-#: Bad_Moon_Rising/units/Ukian_Archer.cfg:30
+#: Bad_Moon_Rising/units/ukians/Ukian_Commando.cfg:49
+#: Bad_Moon_Rising/units/ukians/Ukian_Archer.cfg:24
 msgid "dagger"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Hawkeye.cfg:39
-#: Bad_Moon_Rising/units/Ukian_Hawkeye.cfg:48
-#: Bad_Moon_Rising/units/Ukian_Deadeye.cfg:44
-#: Bad_Moon_Rising/units/Ukian_Deadeye.cfg:53
-#: Bad_Moon_Rising/units/Ukian_Archer.cfg:39
+#: Bad_Moon_Rising/units/ukians/Ukian_Hawkeye.cfg:33
+#: Bad_Moon_Rising/units/ukians/Ukian_Hawkeye.cfg:42
+#: Bad_Moon_Rising/units/ukians/Ukian_Deadeye.cfg:38
+#: Bad_Moon_Rising/units/ukians/Ukian_Deadeye.cfg:47
+#: Bad_Moon_Rising/units/ukians/Ukian_Archer.cfg:33
 msgid "bow"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Commander.cfg:4
+#: Bad_Moon_Rising/units/ukians/Ukian_Commander.cfg:4
 msgid "Ukian Commander"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Commander.cfg:26
+#: Bad_Moon_Rising/units/ukians/Ukian_Commander.cfg:26
 msgid ""
 "Commanders are the military leaders of the Ukians.  They get the few "
 "crossbows preserved from the old days, and heavier armor.  They continue to "
 "use a spear, but have traded the sword for a shield."
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Commander.cfg:46
+#: Bad_Moon_Rising/units/ukians/Ukian_Commander.cfg:46
 msgid "shield"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Commando.cfg:4
+#: Bad_Moon_Rising/units/ukians/Ukian_Commando.cfg:4
 msgid "Ukian Commando"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Commando.cfg:20
+#: Bad_Moon_Rising/units/ukians/Ukian_Commando.cfg:20
 msgid ""
 "The best Courriers become Commandos, getting better equipment and greater "
 "responsibility.  They've had so much practice at evading orcs under the "
 "cover of night, they become almost invisible."
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Runner.cfg:43
-#: Bad_Moon_Rising/units/Ukian_Courrier.cfg:47
-#: Bad_Moon_Rising/units/Ukian_Commando.cfg:62
+#: Bad_Moon_Rising/units/ukians/Ukian_Runner.cfg:58
+#: Bad_Moon_Rising/units/ukians/Ukian_Courrier.cfg:47
+#: Bad_Moon_Rising/units/ukians/Ukian_Commando.cfg:61
 msgid "sling"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Commando.cfg:71
-#: Bad_Moon_Rising/units/Ukian_Subcom.cfg:54
+#: Bad_Moon_Rising/units/ukians/Ukian_Commando.cfg:70
+#: Bad_Moon_Rising/units/ukians/Ukian_Subcom.cfg:51
 msgid "javelin"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Courrier.cfg:4
+#: Bad_Moon_Rising/units/ukians/Ukian_Courrier.cfg:4
 msgid "Ukian Courrier"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Courrier.cfg:19
+#: Bad_Moon_Rising/units/ukians/Ukian_Courrier.cfg:19
 msgid ""
 "Runners who have proven themselves are given more allowance for supplies "
 "because they are entrusted with more important correspondenses.  Still, they "
 "travel light, so the sling is their weapon of choice."
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Deadeye.cfg:4
+#: Bad_Moon_Rising/units/ukians/Ukian_Deadeye.cfg:4
 msgid "Ukian Deadeye"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Deadeye.cfg:20
+#: Bad_Moon_Rising/units/ukians/Ukian_Deadeye.cfg:20
 msgid ""
 "Ukian Deadeyes have been roaming the forrest for a long time and can move "
 "about undetected.  They can launch many missiles, or they can take a tactic "
 "from the orcs and launch more destructive (but slower to load) fire arrows."
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Hawkeye.cfg:30
-#: Bad_Moon_Rising/units/Ukian_Deadeye.cfg:35
-#: Bad_Moon_Rising/units/Ukian_Subcom.cfg:45
-#: Bad_Moon_Rising/units/Ukian_Veteran.cfg:40
+#: Bad_Moon_Rising/units/ukians/Ukian_Hawkeye.cfg:24
+#: Bad_Moon_Rising/units/ukians/Ukian_Deadeye.cfg:29
+#: Bad_Moon_Rising/units/ukians/Ukian_Subcom.cfg:42
+#: Bad_Moon_Rising/units/ukians/Ukian_Veteran.cfg:37
 msgid "sword"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Dog.cfg:5
+#: Bad_Moon_Rising/units/ukians/Ukian_Dog.cfg:5
 msgid "Attack Dog"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Dog.cfg:19
+#: Bad_Moon_Rising/units/ukians/Ukian_Dog.cfg:19
 msgid ""
 "Dogs are not high maintanence and are useful allies when hunting or "
 "scouting.  Attack Dogs are weak but fast and nimble so they are good at "
@@ -2071,11 +2080,11 @@ msgid ""
 "experience."
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Flareman.cfg:4
+#: Bad_Moon_Rising/units/ukians/Ukian_Flareman.cfg:4
 msgid "Ukian Flareman"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Flareman.cfg:33
+#: Bad_Moon_Rising/units/ukians/Ukian_Flareman.cfg:33
 msgid ""
 "Flaremen are elite Signalmen who carry brighter flames, for greater "
 "broadcast strength.  The brilliance of the flames made combat with orcs a "
@@ -2083,32 +2092,32 @@ msgid ""
 "resistance to flame attacks."
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Signalman.cfg:46
-#: Bad_Moon_Rising/units/Ukian_Flareman.cfg:56
+#: Bad_Moon_Rising/units/ukians/Ukian_Signalman.cfg:40
+#: Bad_Moon_Rising/units/ukians/Ukian_Flareman.cfg:50
 msgid "axe"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Signalman.cfg:55
-#: Bad_Moon_Rising/units/Ukian_Flareman.cfg:65
+#: Bad_Moon_Rising/units/ukians/Ukian_Signalman.cfg:49
+#: Bad_Moon_Rising/units/ukians/Ukian_Flareman.cfg:59
 msgid "torch"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Hawkeye.cfg:4
+#: Bad_Moon_Rising/units/ukians/Ukian_Hawkeye.cfg:4
 msgid "Ukian Hawkeye"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Hawkeye.cfg:19
+#: Bad_Moon_Rising/units/ukians/Ukian_Hawkeye.cfg:19
 msgid ""
 "It's not that easy to accurately fire a bow, the Hawkeyes' secret is their "
 "ability to fire off so many shots.  They can also take a tactic from the "
 "orcs and launch more destructive (but slower to load) fire arrows."
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Regular.cfg:4
+#: Bad_Moon_Rising/units/ukians/Ukian_Regular.cfg:4
 msgid "Ukian Regular"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Regular.cfg:21
+#: Bad_Moon_Rising/units/ukians/Ukian_Regular.cfg:21
 msgid ""
 "Ukian Regulars carry a spear because spears are relatively inexpensive.  "
 "Like all Ukians, they are accustomed to life on the tundra, and know how to "
@@ -2117,51 +2126,53 @@ msgid ""
 "Special Notes:"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Regular.cfg:50
+#: Bad_Moon_Rising/units/ukians/Ukian_Regular.cfg:44
 msgid "Throwing Knife"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Runner.cfg:4
+#: Bad_Moon_Rising/units/ukians/Ukian_Runner.cfg:4
 msgid "Ukian Runner"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Runner.cfg:20
+#: Bad_Moon_Rising/units/ukians/Ukian_Runner.cfg:38
 msgid ""
 "Because there were no horses in Ukiah, the scouts and messengers travelled "
 "by foot, learning to keep pace even over icy terrain.  To avoid being "
 "spotted, they prefer to travel under the cover of darkness.  They can't "
 "carry heavy armor and supplies while maintaining their agility, so they are "
 "experts at the sling, a weapon for which they don't need to carry the "
-"ammunition."
+"ammunition.  Because they are front-line scouts, they often must work with "
+"the dogs, and as a result, they have some influence on the moral of their "
+"canine colleagues."
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Seeress.cfg:4
+#: Bad_Moon_Rising/units/ukians/Ukian_Seeress.cfg:5
 msgid "Ukian Seeress"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Seeress.cfg:19
+#: Bad_Moon_Rising/units/ukians/Ukian_Seeress.cfg:20
 msgid ""
-"So much knowledge was lost during the orcish raids.  The Seeresses can't "
-"completely form and control a missile, but they can send out a shockwave "
-"that will stun the enemy if it manages to connect.  They also study the "
-"healing arts."
+"So much knowledge was lost during the orcish raids, the Seeresses have had "
+"to start from the beginning.  While they can't completely form and control a "
+"missile, they can send out a shockwave that will stun the enemy if it "
+"connects.  They are also student of the healing arts."
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Seeress.cfg:33
-#: Bad_Moon_Rising/units/Ukian_Witch.cfg:38
+#: Bad_Moon_Rising/units/ukians/Ukian_Seeress.cfg:28
+#: Bad_Moon_Rising/units/ukians/Ukian_Witch.cfg:35
 msgid "staff"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Seeress.cfg:42
-#: Bad_Moon_Rising/units/Ukian_Witch.cfg:47
+#: Bad_Moon_Rising/units/ukians/Ukian_Seeress.cfg:37
+#: Bad_Moon_Rising/units/ukians/Ukian_Witch.cfg:44
 msgid "shockwave"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Signalman.cfg:4
+#: Bad_Moon_Rising/units/ukians/Ukian_Signalman.cfg:4
 msgid "Ukian Signalman"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Signalman.cfg:29
+#: Bad_Moon_Rising/units/ukians/Ukian_Signalman.cfg:29
 msgid ""
 "Ice, snow, and rough terrain can make it too slow or treacherous to send "
 "messages via Runner.  Flames can be seen from a distance, so Signalmen send "
@@ -2170,36 +2181,36 @@ msgid ""
 "signal corps is composed of strong fighters."
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Subcom.cfg:4
+#: Bad_Moon_Rising/units/ukians/Ukian_Subcom.cfg:4
 msgid "Ukian Subcommander"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Subcom.cfg:25
+#: Bad_Moon_Rising/units/ukians/Ukian_Subcom.cfg:25
 msgid ""
 "Successful Veterans become Subcommanders.  They are responsible for more "
 "fighters, so they carry a shiny-headed spear, which can be raised higher "
 "than a sword."
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Veteran.cfg:4
+#: Bad_Moon_Rising/units/ukians/Ukian_Veteran.cfg:4
 msgid "Ukian Veteran"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Veteran.cfg:25
+#: Bad_Moon_Rising/units/ukians/Ukian_Veteran.cfg:25
 msgid ""
 "The Ukian Officers are veteran Regulars, the Ukians didn't have a class "
 "structure before the arrival of the King."
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Veteran.cfg:49
+#: Bad_Moon_Rising/units/ukians/Ukian_Veteran.cfg:46
 msgid "throwing knife"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Witch.cfg:4
+#: Bad_Moon_Rising/units/ukians/Ukian_Witch.cfg:4
 msgid "Ukian Witch"
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Witch.cfg:20
+#: Bad_Moon_Rising/units/ukians/Ukian_Witch.cfg:20
 msgid ""
 "Ukian Witches are both proficient in the healing arts and resistent to the "
 "elements.   Magic attacks are of a different nature, it is difficult to be "
@@ -2208,8 +2219,45 @@ msgid ""
 "to form, so they have not abandoned it."
 msgstr ""
 
-#: Bad_Moon_Rising/units/Ukian_Witch.cfg:59
+#: Bad_Moon_Rising/units/ukians/Ukian_Witch.cfg:56
 msgid "strike"
+msgstr ""
+
+#: Bad_Moon_Rising/units/ukians_race.cfg:6
+msgid "race^Ukian Human"
+msgstr ""
+
+#: Bad_Moon_Rising/units/ukians_race.cfg:7
+msgid "race+female^Ukian Human"
+msgstr ""
+
+#: Bad_Moon_Rising/units/ukians_race.cfg:8
+msgid "race^Ukians"
+msgstr ""
+
+#: Bad_Moon_Rising/units/ukians_race.cfg:10
+msgid ""
+"The Ukians are from the frozen North, lost descendants of an ill-advised "
+"Wesnoth settlement program.  Cut off from civilization, they developed their "
+"own identity.  Surrounded by hostile orcs, they needed to develope "
+"strategies for survival that did not involve vast resources or brute "
+"strength, but rather rapid communication and mobiliziation.  Every man, "
+"woman, and child had to be able to survive an orcish assault, so there was "
+"no time for studying.  However, with their recent re-acquaintance with the "
+"people of Wesnoth, they have just started training mages."
+msgstr ""
+
+#: Bad_Moon_Rising/units/ukians_race.cfg:12
+msgid ""
+"Aiden,Allen,Artan,Bevan,Bowen,Braeden,Cadeyrn,Caradog,Eadoin,Eben,Gahareet,"
+"Jodoc,Kedehern,Koun,Lugobelinos,Lugovalos,Maponos,Morcant,Peredur,Piran,"
+"Teutorigos,Triston,Tuireann,Vercinetorix"
+msgstr ""
+
+#: Bad_Moon_Rising/units/ukians_race.cfg:13
+msgid ""
+"Aideen,Ardara,Avalbane,Betony,Bonduca,Cartimandua,Cinnia,Crobh Dearg,Edda,"
+"Eddana,Fhina,Innogen,Iseult,Nantosuelta,Reannon,Rhiannon,Ronat,Trista,Ula"
 msgstr ""
 
 #: Bad_Moon_Rising/utils/camp.cfg:6
