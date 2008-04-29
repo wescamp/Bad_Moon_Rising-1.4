@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-02 17:39+0200\n"
-"PO-Revision-Date: 2008-04-25 19:45+0100\n"
+"PO-Revision-Date: 2008-04-29 08:58+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -66,7 +66,7 @@ msgstr "Era ukiana"
 #. [multiplayer_side]: type=Ukian Subcommander
 #: Bad_Moon_Rising/eras/ukians_MP.cfg:5
 msgid "Ukians"
-msgstr ""
+msgstr "Ukian"
 
 #. [scenario]
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:4
@@ -127,7 +127,7 @@ msgstr "Morte di Duval"
 #: Bad_Moon_Rising/scenarios/B_Rescue.cfg:50
 #: Bad_Moon_Rising/scenarios/E_Defend.cfg:60
 msgid "Lorenzon"
-msgstr ""
+msgstr "Lorenzo"
 
 #. [unit]: type=Spearman, description=Bellos
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:71
@@ -147,7 +147,7 @@ msgstr ""
 #. [side]: type=Lieutenant, description=Officer Cantwell
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:106
 msgid "Officer Cantwell"
-msgstr ""
+msgstr "Sottotenente Cantwell"
 
 #. [side]: type=Thug, description=Burgen
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:132
@@ -204,11 +204,13 @@ msgstr ""
 msgid ""
 "No, it was an orcish raid.  The Prince found them afterward, you know that!"
 msgstr ""
+"No, è stata una incursione di orchi. Dopo il principe li ha stanati, tu lo "
+"sai!"
 
 #. [message]: speaker=Burgen
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:287
 msgid "That's not true!  I was there - barely made it out alive!"
-msgstr ""
+msgstr "Non è vero! Io c'ero - sono vivo per miracolo!"
 
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:291
@@ -216,6 +218,8 @@ msgid ""
 "We haven't seen orcs this far in for years.  If it were orcs, there would be "
 "a hunt!"
 msgstr ""
+"Sono anni che non si vedono orchi. Se fossero stati gli orchi, ci sarebbe "
+"stata una caccia!"
 
 #. [unit]: type=Red Mage, description=Duval
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:305
@@ -228,11 +232,13 @@ msgid ""
 "Officer Lorenzon!  I am Minister - well, former Minister - Duval.  I support "
 "your revolution!"
 msgstr ""
+"Sottotenente Lorenzo! Sono il ministro - be', ex-ministro - Duval. Appoggio "
+"la tua rivoluzione!"
 
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:324
 msgid "Whoa! My what!?"
-msgstr ""
+msgstr "EH! La mia cosa?"
 
 #. [message]: speaker=Officer Cantwell
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:329
@@ -253,22 +259,22 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/B_Rescue.cfg:267
 #: Bad_Moon_Rising/scenarios/E_Defend.cfg:153
 msgid "THAT is what happens to traitors!"
-msgstr ""
+msgstr "QUESTO è quello che si meritano i traditori!"
 
 #. [message]: speaker=unit
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:353
 msgid "There was something I had to tell you..."
-msgstr ""
+msgstr "C'era qualcosa che dovevo dirti..."
 
 #. [message]: speaker=unit
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:367
 msgid "I'd never expected this from you...  Traitor..."
-msgstr ""
+msgstr "Da te non me lo sarei mai aspettato... Traditore..."
 
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:371
 msgid "He won't be the only one to call me that..."
-msgstr ""
+msgstr "Non sarà l'unico a chiamarmi così ora..."
 
 #. [message]: speaker=Bellos
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:376
@@ -276,13 +282,15 @@ msgid ""
 "Some of us don't think you're a traitor, sir.  I didn't want to kill these "
 "people."
 msgstr ""
+"Alcuni di noi non pensano che voi siete un traditore, signore. Io non avrei "
+"voluto uccidere questa gente."
 
 #. [message]: speaker=Tach
 #. [message]: speaker=Valos
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:380
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:384
 msgid "I don't think you're a traitor, sir."
-msgstr ""
+msgstr "Io non penso che siate un traditore, signore."
 
 #. [message]: speaker=Hooligan1
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:388
@@ -293,7 +301,7 @@ msgstr ""
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:395
 msgid "Well, we can't stay here, let's go."
-msgstr ""
+msgstr "Be', non possiamo rimanere qua, andiamo."
 
 #. [message]: speaker=Duval
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:400
@@ -303,7 +311,7 @@ msgstr "Sì, andiamo..."
 #. [message]: description=Officer Cantwell
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:411
 msgid "Ah, reinforcements are here.  It's over, traitors!"
-msgstr ""
+msgstr "Ah, ecco i rinforzi. È finita, traditori!"
 
 #. [message]: description=Lorenzon
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:415
@@ -311,7 +319,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/Ha_Crush.cfg:425
 #: Bad_Moon_Rising/scenarios/D_Fort.cfg:253
 msgid "Arg!  He's right, we're screwed!"
-msgstr ""
+msgstr "Arg!  Ha ragione, siamo fritti!"
 
 #. [scenario]
 #: Bad_Moon_Rising/scenarios/B_Rescue.cfg:4
@@ -417,7 +425,7 @@ msgstr ""
 #. [scenario]
 #: Bad_Moon_Rising/scenarios/C_Camp.cfg:4
 msgid "Camp"
-msgstr ""
+msgstr "Campo"
 
 #. [objective]: condition=win
 #: Bad_Moon_Rising/scenarios/C_Camp.cfg:35
@@ -579,7 +587,7 @@ msgstr ""
 #. [scenario]
 #: Bad_Moon_Rising/scenarios/D_Fort.cfg:4
 msgid "Fortress"
-msgstr ""
+msgstr "Fortezza"
 
 #. [objective]: condition=win
 #: Bad_Moon_Rising/scenarios/D_Fort.cfg:35
@@ -717,7 +725,7 @@ msgstr ""
 #. [scenario]
 #: Bad_Moon_Rising/scenarios/E_Defend.cfg:4
 msgid "Defend"
-msgstr ""
+msgstr "Difendi"
 
 #. [objective]: condition=win
 #: Bad_Moon_Rising/scenarios/E_Defend.cfg:44
@@ -746,17 +754,18 @@ msgstr "Hondo"
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios/E_Defend.cfg:123
 msgid "Here they come..."
-msgstr ""
+msgstr "Eccoli..."
 
 #. [message]: speaker=Secco
 #: Bad_Moon_Rising/scenarios/E_Defend.cfg:127
 msgid "Exactly as you thought, Sir.  The rebels have captured Fort Khule."
 msgstr ""
+"Esattamente come pensavate, signore. I ribelli hanno preso forte Khule."
 
 #. [message]: speaker=General Maskov
 #: Bad_Moon_Rising/scenarios/E_Defend.cfg:131
 msgid "We have to get it back.  Move!"
-msgstr ""
+msgstr "Lo riprenderemo. Muoviamoci!"
 
 #. [message]: speaker=second_unit
 #: Bad_Moon_Rising/scenarios/E_Defend.cfg:142
@@ -769,6 +778,8 @@ msgid ""
 "I am tired of hearing that.  The Prince is a madman, and those who enable "
 "him are the traitors.  I'm trying to re-establish the rule of law!"
 msgstr ""
+"Sono stanco di sentirlo. Il principe è un pazzo e i traditori sono quelli "
+"che l'appoggiano. Sto cercando di ristabilire uno stato di giustizia!"
 
 #. [message]: speaker=unit
 #. [message]: speaker=General Maskov
@@ -778,6 +789,8 @@ msgid ""
 "You have an interesting way of doing that - sending Huric General Drago's "
 "head in a box!"
 msgstr ""
+"Avete degli strani metodi per farlo - mandare a Huric la testa del generale "
+"Draco in una scatola!"
 
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios/E_Defend.cfg:192
@@ -787,6 +800,9 @@ msgid ""
 "prince has done things much worse and will continue to do so unless he is "
 "stopped."
 msgstr ""
+"(Non è stata una mia idea...) Drago è morto in battaglia, non l'ho "
+"giustiziato. Il principe ha fatto cose peggiori e continuerà a farle a meno "
+"che non sia fermato."
 
 #. [message]: speaker=unit
 #: Bad_Moon_Rising/scenarios/E_Defend.cfg:196
@@ -1519,9 +1535,8 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #: Bad_Moon_Rising/scenarios/I_Chase.cfg:250
-#, fuzzy
 msgid "It's no use, he's dead..."
-msgstr "Cosa importa? È morto ormai."
+msgstr "È inutile, è morto ormai..."
 
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios/I_Chase.cfg:254
@@ -1555,7 +1570,7 @@ msgstr "Tahn Garath"
 #. [unit]: type=Troll, description=Guide
 #: Bad_Moon_Rising/scenarios/J_Pit.cfg:147
 msgid "Garath's Guide"
-msgstr ""
+msgstr "La guida di Garath"
 
 #. [unit]: type=Orcish Warrior, description=Lieutenant
 #: Bad_Moon_Rising/scenarios/J_Pit.cfg:153
@@ -1930,7 +1945,7 @@ msgstr ""
 #. [message]: speaker=Hank Skoro
 #: Bad_Moon_Rising/scenarios/K_Ruin.cfg:386
 msgid "Where have you been!?"
-msgstr ""
+msgstr "Dove sei stato?"
 
 #. [message]: speaker=Knafa Skoro
 #: Bad_Moon_Rising/scenarios/K_Ruin.cfg:390
@@ -2027,7 +2042,7 @@ msgstr "Una nuova casa"
 #. [objective]: condition=win
 #: Bad_Moon_Rising/scenarios/L_Home.cfg:40
 msgid "Clear the land of enemies"
-msgstr ""
+msgstr "Libera la terra dai nemici"
 
 #. [objective]: condition=lose
 #: Bad_Moon_Rising/scenarios/L_Home.cfg:48
@@ -2103,7 +2118,7 @@ msgstr ""
 #. [message]: role=Scout
 #: Bad_Moon_Rising/scenarios/L_Home.cfg:262
 msgid "Yessir!"
-msgstr ""
+msgstr "Sissignore!"
 
 #. [message]: speaker=Valeron
 #: Bad_Moon_Rising/scenarios/L_Home.cfg:298
@@ -2227,9 +2242,8 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Bad_Moon_Rising/scenarios/M_Home2.cfg:363
-#, fuzzy
 msgid "Not very effective allies..."
-msgstr "Non era uno molto sveglio, eh?"
+msgstr ""
 
 #. [unit]: type=Goblin Knight, description=Knight
 #: Bad_Moon_Rising/scenarios/M_Home2.cfg:383
@@ -2389,7 +2403,7 @@ msgstr "Follia"
 #: Bad_Moon_Rising/scenarios/N_Revenge.cfg:13
 #: Bad_Moon_Rising/scenarios/N_Revenge.cfg:33
 msgid "Strange Cave"
-msgstr ""
+msgstr "Bizzarra caverna"
 
 #. [objective]: condition=win
 #: Bad_Moon_Rising/scenarios/N_Revenge.cfg:47
@@ -2399,7 +2413,7 @@ msgstr ""
 #. [message]: speaker=Scarrion
 #: Bad_Moon_Rising/scenarios/N_Revenge.cfg:99
 msgid "Suprise!"
-msgstr ""
+msgstr "Sorpresa!"
 
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios/N_Revenge.cfg:103
@@ -2409,7 +2423,7 @@ msgstr "Cos'è?"
 #. [message]: speaker=Scarrion
 #: Bad_Moon_Rising/scenarios/N_Revenge.cfg:107
 msgid "Start running..."
-msgstr ""
+msgstr "Inizia a correre..."
 
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios/N_Revenge.cfg:116
@@ -2958,7 +2972,7 @@ msgstr ""
 #. [unit]: race=ukiandog
 #: Bad_Moon_Rising/units/ukians/Ukian_Dog.cfg:5
 msgid "Dog"
-msgstr ""
+msgstr "Cane"
 
 #. [unit]: race=ukiandog
 #: Bad_Moon_Rising/units/ukians/Ukian_Dog.cfg:19
@@ -3152,12 +3166,12 @@ msgstr ""
 #. [race]
 #: Bad_Moon_Rising/units/ukians_race.cfg:5
 msgid "race^Ukian Human"
-msgstr "Ukian"
+msgstr "Uomo di Ukian"
 
 #. [race]
 #: Bad_Moon_Rising/units/ukians_race.cfg:6
 msgid "race+female^Ukian Human"
-msgstr ""
+msgstr "Donna di Ukian"
 
 #. [race]
 #: Bad_Moon_Rising/units/ukians_race.cfg:7
@@ -3188,6 +3202,13 @@ msgid ""
 "Piran,Ruadhan,Ruarc,Scoithin,Sioda,Siollan,Teutorigos,Tighearnach,Tiobraide,"
 "Torcan,Triston,Tuathal,Tuireann,Ultan,Vercingetorix"
 msgstr ""
+"Abban,Aibhne,Aiden,Ailill,Allen,Artan,Bairrfhionn,Bevan,Bowen,Braeden,Brogan,"
+"Buadhach,Cadeyrn,Calbhach,Caradog,Carden,Cearbhall,Coalan,Cuan,Daigh,Daimhin,"
+"Deverell,Dubhaltach,Eadoin,Eben,Eoghan,Eunan,Faolan,Gahareet,Gavin,Irial,"
+"Jodoc,Kedehern,Koun,Laoire,Lorcan,Lughaidh,Lugobelinos,Lugovalos,Maol "
+"Mhurire,Maponos,Marcan,Morann,Morcant,Murchadh,Nuadha,Olcan,Osan,Peredur,"
+"Piran,Ruadhan,Ruarc,Scoithin,Sioda,Siollan,Teutorigos,Tighearnach,Tiobraide,"
+"Torcan,Triston,Tuathal,Tuireann,Ultan,Vercingetorix"
 
 #. [race]
 #: Bad_Moon_Rising/units/ukians_race.cfg:12
@@ -3199,6 +3220,12 @@ msgid ""
 "Raelin,Rathnait,Reannon,Rhiannon,Ronat,Saorla,Sarnait,Scothnait,Seanna,"
 "Taillte,Trista,Tuilaith,Uaine,Ula,Vanora"
 msgstr ""
+"Aideen,Ainder,Ardara,Avalbane,Betony,Blathnaid,Bonduca,Bronach,Bryher,"
+"Cartimandua,Ceara,Cinnia,Ciar,Cliodhna,Crobh Dearg,Damhnait,Deabhail,"
+"Dunfhlaith,Edda,Eddana,Fachtna,Fhina,Fianait,Gormlaith,Grian,Innogen,Kendra,"
+"Iseult,Laoise,Liadan,Liobhan,Moncha,Muireann,Nantosuelta,Naohm,Nuala,Orlaith,"
+"Raelin,Rathnait,Reannon,Rhiannon,Ronat,Saorla,Sarnait,Scothnait,Seanna,"
+"Taillte,Trista,Tuilaith,Uaine,Ula,Vanora"
 
 #. [race]
 #: Bad_Moon_Rising/units/ukians_race.cfg:17
@@ -3208,7 +3235,7 @@ msgstr "Cane di Ukian"
 #. [race]
 #: Bad_Moon_Rising/units/ukians_race.cfg:18
 msgid "race+female^Ukian Dog"
-msgstr ""
+msgstr "Cagna di Ukian"
 
 #. [race]
 #: Bad_Moon_Rising/units/ukians_race.cfg:19
@@ -3230,6 +3257,8 @@ msgid ""
 "Bal,Bear,Bellus,Car,Coun,Dach,Don,Earl,Fhar,Gan,Howler,Irid,Joc,Kar,Kech,Lug,"
 "Mach,Nantos,Orach,Perro,Raen,Sean,Troe,Valos"
 msgstr ""
+"Bal,Bear,Bellus,Car,Coun,Dach,Don,Earl,Fhar,Gan,Howler,Irid,Joc,Kar,Kech,Lug,"
+"Mach,Nantos,Orach,Perro,Raen,Sean,Troe,Valos"
 
 #. [part]
 #: Bad_Moon_Rising/utils/camp.cfg:6
@@ -3475,7 +3504,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: Bad_Moon_Rising/utils/items.cfg:57
 msgid "Woof!"
-msgstr ""
+msgstr "Bau!"
 
 #. [object]
 #: Bad_Moon_Rising/utils/items.cfg:82
@@ -3537,7 +3566,7 @@ msgstr ""
 #. [part]
 #: Bad_Moon_Rising/utils/rescue.cfg:18
 msgid "The rebels retreated to the woods to buy some time."
-msgstr ""
+msgstr "I ribelli si ritirarono nei boschi per guadagnare tempo."
 
 #. [part]
 #: Bad_Moon_Rising/utils/rescue.cfg:26
