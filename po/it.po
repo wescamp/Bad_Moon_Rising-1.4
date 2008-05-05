@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-05-01 17:03+0200\n"
-"PO-Revision-Date: 2008-04-29 08:58+0100\n"
+"PO-Revision-Date: 2008-05-05 10:30+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +29,7 @@ msgstr "(facile)"
 #. [campaign]
 #: Bad_Moon_Rising/_main.cfg:15 Bad_Moon_Rising/_main.cfg:30
 msgid "Regular"
-msgstr ""
+msgstr "Soldato"
 
 #. [campaign]
 #: Bad_Moon_Rising/_main.cfg:16 Bad_Moon_Rising/_main.cfg:31
@@ -39,7 +39,7 @@ msgstr "(normale)"
 #. [campaign]
 #: Bad_Moon_Rising/_main.cfg:16 Bad_Moon_Rising/_main.cfg:31
 msgid "Veteran"
-msgstr ""
+msgstr "Veterano"
 
 #. [campaign]
 #: Bad_Moon_Rising/_main.cfg:17 Bad_Moon_Rising/_main.cfg:32
@@ -68,6 +68,7 @@ msgstr ""
 
 #. [campaign]
 #: Bad_Moon_Rising/_main.cfg:33
+#, fuzzy
 msgid ""
 "The best of intentions often do not lead to the best results.  The Prince "
 "was a monster, but while overthrowing him, Officer Lorenzon unwittingly "
@@ -77,6 +78,13 @@ msgid ""
 "SAVE FILES FROM PREVIOUS VERSIONS MIGHT NOT WORK.  Scenario start saves "
 "should work however.)"
 msgstr ""
+"Non sempre le migliori intenzioni portano a buoni risultati. Il principe era "
+"un mostro, ma per rovesciarlo, il tenente Lorenzo involontariamente libera "
+"nel mondo un male peggiore. (Funziona con 1.4, richiede l'era estesa. Ci "
+"sono 15 scenari giocabili, ma richiedono ancora un bilanciamento se non "
+"addirittura il debugging. AGGIORNAMENTO per 0.2.3: I VECCHI SALVATAGGI NON "
+"FUNZIONANO PIÙ. Nuova grafica, nuovo scenario prima di “Zuffa reale” che "
+"sistema la trama, cambiato lo scenario “Il pozzo”.)"
 
 #. [era]
 #: Bad_Moon_Rising/eras/ukians_Era.cfg:6
@@ -206,8 +214,9 @@ msgstr ""
 
 #. [message]: speaker=Russle
 #: Bad_Moon_Rising/scenarios/01_Abandoned.cfg:240
+#, fuzzy
 msgid "No!  Don't leave me here!"
-msgstr ""
+msgstr "Non siete i benvenuti!"
 
 #. [message]: speaker=Scarrion_G
 #: Bad_Moon_Rising/scenarios/01_Abandoned.cfg:262
@@ -307,7 +316,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/01_Abandoned.cfg:366
 #, fuzzy
 msgid "Thanks for nothing..."
-msgstr "Ti ringrazio, Lorenzon..."
+msgstr "Ti ringrazio, Lorenzo..."
 
 #. [message]: speaker=Russle
 #: Bad_Moon_Rising/scenarios/01_Abandoned.cfg:379
@@ -882,7 +891,7 @@ msgstr "Uccidi il comandante nemico"
 #: Bad_Moon_Rising/scenarios/B_Rescue.cfg:38
 #: Bad_Moon_Rising/scenarios/E_Defend.cfg:48
 msgid "Death of Lorenzon"
-msgstr "Morte di Lorenzon"
+msgstr "Morte di Lorenzo"
 
 #. [objective]: condition=lose
 #: Bad_Moon_Rising/scenarios/F_Mines.cfg:30
@@ -918,22 +927,22 @@ msgstr "Lorenzo"
 #. [unit]: type=Spearman, description=Bellos
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:71
 msgid "Patrolman Bellos"
-msgstr ""
+msgstr "Gendarme Bellos"
 
 #. [unit]: type=Spearman, description=Tach
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:82
 msgid "Patrolman Tach"
-msgstr ""
+msgstr "Gendarme Tach"
 
 #. [unit]: type=Spearman, description=Valos
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:93
 msgid "Patrolman Valos"
-msgstr ""
+msgstr "Gendarme Valos"
 
 #. [side]: type=Lieutenant, description=Officer Cantwell
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:106
 msgid "Officer Cantwell"
-msgstr "Sottotenente Cantwell"
+msgstr "Tenente Cantwell"
 
 #. [side]: type=Thug, description=Burgen
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:140
@@ -977,6 +986,8 @@ msgid ""
 "The peasants are getting out of line.  We need to stop this before the "
 "violence spreads..."
 msgstr ""
+"I contadini cominciano a essere sprezzanti. Dobbiamo intervenire prima che "
+"la violenza si diffonda..."
 
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:288
@@ -984,6 +995,8 @@ msgid ""
 "I've heard that the Prince crashed a wedding, killed everyone.  I can see "
 "why the peasants are angry."
 msgstr ""
+"Ho sentito che il principe ha fatto irruzione a un matrimonio, uccidendo "
+"tutti quanti. Capisco perché i contadini sono arrabbiati."
 
 #. [message]: speaker=Officer Cantwell
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:293
@@ -1010,7 +1023,7 @@ msgstr ""
 #. [unit]: type=Red Mage, description=Duval
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:315
 msgid "Minister Duval"
-msgstr "Ministro Duval"
+msgstr "Pastore Duval"
 
 #. [message]: speaker=Duval
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:330
@@ -1018,8 +1031,8 @@ msgid ""
 "Officer Lorenzon!  I am Minister - well, former Minister - Duval.  I support "
 "your revolution!"
 msgstr ""
-"Sottotenente Lorenzo! Sono il ministro - be', ex-ministro - Duval. Appoggio "
-"la tua rivoluzione!"
+"Tenente Lorenzo! Sono il pastore - be', ex-pastore - Duval. Appoggio la tua "
+"rivoluzione!"
 
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios/A_Enough.cfg:334
@@ -1130,7 +1143,7 @@ msgstr "Bahren"
 #. [side]: type=Pikeman, description=Carusoe
 #: Bad_Moon_Rising/scenarios/B_Rescue.cfg:94
 msgid "Carusoe"
-msgstr "Carusoe"
+msgstr "Caruso"
 
 #. [object]
 #: Bad_Moon_Rising/scenarios/B_Rescue.cfg:218
@@ -1158,6 +1171,8 @@ msgid ""
 "(I recognize those two.  They often go wolf hunting with Huric.  What are "
 "they doing?)"
 msgstr ""
+"(tra sé) Conosco quei due. Spesso vanno a caccia di lupi con Huric. Cosa "
+"stanno facendo?"
 
 #. [message]: speaker=Bahren
 #: Bad_Moon_Rising/scenarios/B_Rescue.cfg:252
@@ -1177,7 +1192,7 @@ msgstr ""
 #. [message]: speaker=Carusoe
 #: Bad_Moon_Rising/scenarios/B_Rescue.cfg:264
 msgid "Officer?  That's no officer, that's a traitor..."
-msgstr ""
+msgstr "Tenente? Non è un ufficiale, è un traditore..."
 
 #. [message]: speaker=unit
 #: Bad_Moon_Rising/scenarios/F_Mines.cfg:217
@@ -1196,12 +1211,12 @@ msgstr "Abbiamo appena cominciato..."
 #: Bad_Moon_Rising/scenarios/D_Fort.cfg:257
 #: Bad_Moon_Rising/scenarios/B_Rescue.cfg:299
 msgid "Ah, the Prince's forces are here.  It's over, traitors!"
-msgstr ""
+msgstr "Ah, le forze del principe sono qui. È finita, traditori!"
 
 #. [message]: description=Bahren
 #: Bad_Moon_Rising/scenarios/B_Rescue.cfg:303
 msgid "Yes!  His Magesty is here, it's over!"
-msgstr ""
+msgstr "Sì! Sua maestà è qua, è finita!"
 
 #. [message]: description=Lorenzon
 #: Bad_Moon_Rising/scenarios/B_Rescue.cfg:307
@@ -1574,9 +1589,9 @@ msgid ""
 "prince has done things much worse and will continue to do so unless he is "
 "stopped."
 msgstr ""
-"(Non è stata una mia idea...) Drago è morto in battaglia, non l'ho "
-"giustiziato. Il principe ha fatto cose peggiori e continuerà a farle a meno "
-"che non sia fermato."
+"(tra sé)  Non è stata una mia idea...\n"
+"Drago è morto in battaglia, non l'ho giustiziato. Il principe ha fatto cose "
+"peggiori e continuerà a farle a meno che non sia fermato."
 
 #. [message]: speaker=unit
 #: Bad_Moon_Rising/scenarios/E_Defend.cfg:196
@@ -1772,17 +1787,17 @@ msgstr ""
 #. [message]: speaker=Duval
 #: Bad_Moon_Rising/scenarios/F_Mines.cfg:289
 msgid "Could be lava, hopefully we can still get through."
-msgstr ""
+msgstr "Potrebbe essere lava, speriamo di riuscire a passare."
 
 #. [message]: speaker=General Maskov
 #: Bad_Moon_Rising/scenarios/F_Mines.cfg:293
 msgid "Is it wise to go in there?  Won't we succomb to the fumes?"
-msgstr ""
+msgstr "È saggio scendere? Non saremo soffocati dai fumi?"
 
 #. [message]: speaker=Duval
 #: Bad_Moon_Rising/scenarios/F_Mines.cfg:297
 msgid "We'll be fine."
-msgstr ""
+msgstr "Respireremo bene."
 
 #. [message]: speaker=General Maskov
 #: Bad_Moon_Rising/scenarios/F_Mines.cfg:308
@@ -1850,7 +1865,7 @@ msgstr ""
 #. [message]: speaker=Mal Murmak
 #: Bad_Moon_Rising/scenarios/G_Guardian.cfg:237
 msgid "You are not welcome here!"
-msgstr ""
+msgstr "Non siete i benvenuti!"
 
 #. [message]: speaker=Duval
 #: Bad_Moon_Rising/scenarios/G_Guardian.cfg:241
@@ -1962,12 +1977,13 @@ msgstr ""
 #. [message]: speaker=spear1
 #: Bad_Moon_Rising/scenarios/Ha_Crush.cfg:297
 msgid "You're back!  Wait - where is the General?"
-msgstr ""
+msgstr "Siete tornati! Un momento - dov'è il generale?"
 
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios/Ha_Crush.cfg:301
 msgid "Maskov and Duval are still looking for the artifact.  What's going on?"
 msgstr ""
+"Maskov e Duval sono ancora alla ricerca dell'artifatto. Cosa sta succedendo?"
 
 #. [message]: speaker=Huric
 #: Bad_Moon_Rising/scenarios/Ha_Crush.cfg:305
@@ -2040,12 +2056,12 @@ msgstr ""
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios/Ha_Crush.cfg:418
 msgid "(What does that mean?)"
-msgstr ""
+msgstr "(tra sé) Cosa vuol dire?"
 
 #. [message]: description=General Huston
 #: Bad_Moon_Rising/scenarios/Ha_Crush.cfg:429
 msgid "Ah, the Prince has returned!  It's over, traitors!"
-msgstr ""
+msgstr "Ah, il principe è tornato! È finita, traditori!"
 
 #. [scenario]
 #: Bad_Moon_Rising/scenarios/Hb_Rumble.cfg:4
@@ -2163,6 +2179,8 @@ msgid ""
 "(Although... It might be wise to let Scarrion and Huric fight each other for "
 "a few rounds...)"
 msgstr ""
+"(tra sé) Però... potrebbe essere saggio lasciare combattere Scarrione e "
+"Huric tra di loro per qualche round..."
 
 #. [message]: speaker=unit
 #: Bad_Moon_Rising/scenarios/Hb_Rumble.cfg:353
@@ -2273,7 +2291,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: Bad_Moon_Rising/scenarios/I_Chase.cfg:234
 msgid "Thank you, Lorenzon..."
-msgstr "Ti ringrazio, Lorenzon..."
+msgstr "Ti ringrazio, Lorenzo..."
 
 #. [message]: speaker=unit
 #: Bad_Moon_Rising/scenarios/I_Chase.cfg:238
@@ -2454,7 +2472,7 @@ msgstr "Uccidi Scarrion"
 #. [objective]: condition=lose
 #: Bad_Moon_Rising/scenarios/J_Pit.cfg:471
 msgid "Scarrion Escapes"
-msgstr "Scarrion fuggeFuga della carovana"
+msgstr "Scarrion fugge"
 
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios/J_Pit.cfg:509
@@ -2931,7 +2949,7 @@ msgstr "Morte di Valeron"
 #: Bad_Moon_Rising/scenarios/M_Home2.cfg:136
 #: Bad_Moon_Rising/scenarios/M_Home2.cfg:142
 msgid "Loyal Follower"
-msgstr ""
+msgstr "Seguace fedele"
 
 #. [side]: type=Orcish Sovereign, description=Tank Skoro
 #: Bad_Moon_Rising/scenarios/M_Home2.cfg:150
@@ -3338,7 +3356,7 @@ msgstr ""
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios/O_Epilog.cfg:140
 msgid "Let us hope.  Peace be with you."
-msgstr ""
+msgstr "Speriamo. La pace sia con te."
 
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios/O_Epilog.cfg:148
@@ -3662,8 +3680,9 @@ msgstr ""
 
 #. [unit]: race=human
 #: Bad_Moon_Rising/units/primeval/Primeval_Follower.cfg:4
+#, fuzzy
 msgid "Primevalist Follower"
-msgstr ""
+msgstr "Seguace fedele"
 
 #. [attack]: type=cold
 #: Bad_Moon_Rising/units/primeval/Primeval_Follower.cfg:42
@@ -4472,6 +4491,8 @@ msgid ""
 "Prince Huric often treated the peasants like trash, but this time he had "
 "gone too far..."
 msgstr ""
+"Il principe Huric ha spesso trattato i contadini come spazzatura, ma questa "
+"volta è andato troppo in là..."
 
 #. [part]
 #: Bad_Moon_Rising/utils/intro.cfg:44
@@ -4479,6 +4500,8 @@ msgid ""
 "This story concerns one of the royal officers, Lieutenant Lorenzon, who was "
 "at the center of the events that followed."
 msgstr ""
+"Questa storia riguarda un ufficiali del re, il tenente Lorenzo, che era al "
+"centro degli eventi che seguirono."
 
 #. [message]: speaker=narrator
 #: Bad_Moon_Rising/utils/items.cfg:42
@@ -4501,6 +4524,8 @@ msgid ""
 "This tarnished ring gives the wearer a strength and hardiness from an age of "
 "heroes."
 msgstr ""
+"Questo anello ossidato conferisce a chi lo porta la forza e la resistenza da "
+"un'età di eroi."
 
 #. [part]
 #: Bad_Moon_Rising/utils/mines.cfg:6
@@ -4585,6 +4610,11 @@ msgid ""
 "orcs noticed the infighting between loyalists and rebels, and wiped them all "
 "out.  If Lorenzon could get back to restore order before then..."
 msgstr ""
+"Per il mostro che era, Huric ha tenuto a bada gli orchi. Senza di lui, le "
+"forze reali sono disorganizzate. È proprio solo questione di tempo prima che "
+"gli orchi si avvedano dei dissidi tra lealisti e ribelli e spazzino via "
+"entrambi. Se Lorenzo potesse tornare indietro a riportare l'ordine tra di "
+"loro..."
 
 #. [time]
 #: Bad_Moon_Rising/utils/schedules.cfg:6
