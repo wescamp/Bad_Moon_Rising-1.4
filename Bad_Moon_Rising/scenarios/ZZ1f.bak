@@ -1,18 +1,16 @@
 #textdomain wesnoth-Bad_Moon_Rising
 [scenario]
-	id="ZZ1d"
-	name= _ "Skirmish"
-#	map_data="{@campaigns/Bad_Moon_Rising/maps/ZZ1a.map}"
-	map_generation=default
+	id="ZZ1f"
+	name= _ "Wildlife"
+	map_data="{@campaigns/Bad_Moon_Rising/maps/ZZ1f.map}"
 	next_scenario="ZZ1_North1"
 	victory_when_enemies_defeated=no
-	{TURNS 20 18 16}
+	{TURNS 14 12 10}
 	{SCENARIO_MUSIC "northerners.ogg"}
-        {VICTORY_AND_DEFEAT_MUSIC}
+
 
 	{BMR_DAYLONG}
-
-	{SK_GENERATOR_2}
+	{BMR_SNOW}
 
 	[event]
 	name=prestart
@@ -31,7 +29,6 @@
 			description=_ "Time Runs Out"
 			[/objective]
 		[/objectives]
-       {SKIRMISH_MASK_1}	
 	[/event]
 
 	[side]
@@ -51,69 +48,68 @@
 
 	[side]
 #ifdef HARD
-	type=Orcish Slayer
+	type=Orcish Slurbow
+	generate_description=yes
 #else
-	type=Orcish Warrior
+	type=Orcish Crossbowman
+	generate_description=yes
 #endif
-	description=Patrol Leader
+	recruit=Goblin Spearman
 	side=2
 	team_name=bad
-	fog=yes
-	shroud=no
-	canrecruit=yes
-	recruit=Goblin Spearman
 	[ai]
 	aggression=1.0
 	[/ai]
 	[/side]
 
+	[side]
+	no_leader=yes
+	side=3
+	team_name=wild
+	[/side]
+
 	[event]
 	name=prestart
-	[set_variable]
-	name=foes1
-	random=1..6
-	[/set_variable]	
-	[set_variable]
-	name=foes2
-	random=1..3
-	[/set_variable]	
-	[set_variable]
-	name=foes3
-	random=1..3
-	[/set_variable]	
-	{RANDTERRAIN 10 Hh Ha}
-	{RANDTERRAIN 10 Ww Ai}
-	{RANDTERRAIN 10 Gg Aa}
-	{RANDTERRAIN 10 Gs^Fp Aa^Fpa}
-	{SCATTER_IMAGE (terrain=Aa) $foes1 scenery/pine1.png}
-	{SCATTER_IMAGE (terrain=Gg) $foes2 scenery/rock2.png}
-	{SCATTER_FOES 1 20 1 17 (Orcish Grunt) $foes1 2}
-	{SCATTER_FOES 1 20 1 17 (Wolf Rider) $foes2 2}
-	{SCATTER_FOES 1 20 1 17 (Orcish Assassin) $foes3 2}
-        {TELEPORT_UNIT (description=Lorenzon) 3 2}
-        {TELEPORT_UNIT (description=Patrol Leader) 19 20}
 
+        [set_variable]
+        name=foes1
+        random=1..5
+        [/set_variable]
+        [set_variable]
+        name=foes2
+        random=1..5
+        [/set_variable]
+        [set_variable]
+        name=foes3
+        random=1..3
+        [/set_variable]
+        [set_variable]
+        name=foes4
+        random=1,1,2
+        [/set_variable]
+        {RANDTERRAIN 10 Hh Ha}
+        {RANDTERRAIN 10 Ww Ai}
+        {RANDTERRAIN 10 Gg Aa}
+        {RANDTERRAIN 10 Gs^Fp Aa^Fpa}
+        {SCATTER_IMAGE (terrain=Aa) $foes1 scenery/pine1.png}
+        {SCATTER_IMAGE (terrain=Gg) $foes2 scenery/rock2.png}
+        {SCATTER_FOES 5 20 1 20 (Orcish Archer) $foes1 2}
+        {SCATTER_FOES 5 20 1 20 (Orcish Grunt) $foes2 2}
+        {SCATTER_FOES 5 20 1 20 (Arctic Wolf) $foes3 3}
+        {SCATTER_FOES 5 20 1 20 (Yeti) $foes4 3}
 	[/event]
 
 	[event]
 	name=start
-	[message]
-	speaker=Lorenzon
-	message= _ "You know the drill..."
-	[/message]
 	[/event]
 
 	[event]
 	name=turn 2
- # halt recruiting - this is a skirmish, not a battle.
-	[set_recruit]
-	recruit=
-	side=1
-	[/set_recruit]
-	[set_recruit]
-	recruit=
-	side=2
-	[/set_recruit]
+# remove the keep
+	[terrain]
+	terrain=Ce
+	x,y=1,10
+	[/terrain]
 	[/event]
 
 	[event]
@@ -127,15 +123,10 @@
 	    [/not]
 	    [then]
 	{SKIRMISHEXP}
-	    [gold]
-		side=1
-		amount=100
-	    [/gold]
- # restore recruitment
-	[set_recruit]
-	recruit=Ukian Regular, Ukian Archer, Ukian Dog, Ukian Runner
+	[gold]
 	side=1
-	[/set_recruit]
+	amount=50
+	[/gold]
 		[endlevel]
 		result=victory
 		carryover_percentage=100
