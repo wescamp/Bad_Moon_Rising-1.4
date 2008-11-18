@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-10-14 18:41+0200\n"
+"POT-Creation-Date: 2008-11-18 22:23+0100\n"
 "PO-Revision-Date: 2008-07-07 22:48+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -60,8 +60,8 @@ msgid ""
 "A soldier of Weldyn is captured by a necromancer.  His attempt to escape "
 "sets events in motion that could have consequences for all life on the "
 "planet.  5/5 scenarios playable, but there's still work to do.  Adventure-"
-"ish campaign, little if any recruiting.  (UPDATE for 0.4.1:  No changes from "
-"0.4.0)"
+"ish campaign, little if any recruiting.  (UPDATE for 0.4.2:  Some minor "
+"dialogue upadates)"
 msgstr ""
 
 #. [campaign]
@@ -89,10 +89,9 @@ msgstr ""
 msgid ""
 "The best of intentions often do not lead to the best results.  The Prince "
 "was a monster, but while overthrowing him, Officer Lorenzon unwittingly "
-"unleashes an even greater evil on the world.  (Works on 1.4.  There are ~12 "
-"scenarios playable, they still need balancing if not debugging.  UPDATE for "
-"0.4.1: Should work through to the end, but there are still gaps in the "
-"'world maps'.)"
+"unleashes an even greater evil on the world.  (Works on 1.4.  There are "
+"about 12 scenarios playable, they still need balancing.  UPDATE for 0.4.2: "
+"Some bugfixes, but the 'world map' parts are still buggy.)"
 msgstr ""
 
 #. [campaign]
@@ -103,8 +102,10 @@ msgstr ""
 #. [campaign]
 #: Bad_Moon_Rising/_main.cfg:48
 msgid ""
-"Conclusion of the Ukian tribulations....  eventually.  This campaign will "
-"not load."
+"The Ukians thought they had saved the world from an evil wizard, but they "
+"find the trouble has just begun.  (For 0.4.2: One scenario finished, two "
+"more that will load but don't quite work correctly.  This campaign is very "
+"unfinished and strictly for the curious.)"
 msgstr ""
 
 #. [era]
@@ -145,10 +146,7 @@ msgstr ""
 
 #. [part]
 #: Bad_Moon_Rising/scenarios/0_01_Abandoned.cfg:23
-msgid ""
-"But none of us knew anything about any of that.  It's been a long, strange "
-"journey...  I should start at the beginning, I suppose.  I was not present "
-"for much of what passed, but I shall try to record everything as best I can."
+msgid "But that was long ago, and nobody knew anything about that..."
 msgstr ""
 
 #. [part]
@@ -157,8 +155,7 @@ msgid ""
 "It all started when Weldyn decided to banish the night by launching a "
 "mountain into the sky.  Wealthy as Weldyn was, it needed to raise funding "
 "for this endevour, so expeditions were sent to scour the continent to "
-"recover any overlooked treasure whose recovery would not provoke an "
-"expensive war."
+"recover any overlooked treasure, without provoking an expensive war."
 msgstr ""
 
 #. [part]
@@ -202,25 +199,40 @@ msgid "Death of Therion"
 msgstr ""
 
 #. [objective]: condition=lose
+#: Bad_Moon_Rising/scenarios/S_Snow5.cfg:35
+#: Bad_Moon_Rising/scenarios/S_Hills6.cfg:31
 #: Bad_Moon_Rising/scenarios/S_Woods4.cfg:35
+#: Bad_Moon_Rising/scenarios/S_Snow9.cfg:35
 #: Bad_Moon_Rising/scenarios/S_Woods2.cfg:35
+#: Bad_Moon_Rising/scenarios/S_Snow6.cfg:31
+#: Bad_Moon_Rising/scenarios/S_Hills8.cfg:35
 #: Bad_Moon_Rising/scenarios/1_04_Fort.cfg:49
+#: Bad_Moon_Rising/scenarios/S_Snow8.cfg:35
+#: Bad_Moon_Rising/scenarios/S_Hills7.cfg:31
+#: Bad_Moon_Rising/scenarios/S_Woods5.cfg:31
+#: Bad_Moon_Rising/scenarios/S_Hills5.cfg:35
 #: Bad_Moon_Rising/scenarios/S_Snow3.cfg:35
 #: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:38
 #: Bad_Moon_Rising/scenarios/S_Snow1.cfg:35
 #: Bad_Moon_Rising/scenarios/S_Snow2.cfg:35
 #: Bad_Moon_Rising/scenarios/S_Woods1.cfg:35
+#: Bad_Moon_Rising/scenarios/S_Woods7.cfg:31
 #: Bad_Moon_Rising/scenarios/S_Snow4.cfg:35
 #: Bad_Moon_Rising/scenarios/S_Hills3.cfg:35
 #: Bad_Moon_Rising/scenarios/S_Hills1.cfg:35
 #: Bad_Moon_Rising/scenarios/0_01_Abandoned.cfg:57
+#: Bad_Moon_Rising/scenarios/S_Woods6.cfg:31
 #: Bad_Moon_Rising/scenarios/1_07_Crush.cfg:75
 #: Bad_Moon_Rising/scenarios/1_06_Guardian.cfg:39
 #: Bad_Moon_Rising/scenarios/S_Hills2.cfg:35
 #: Bad_Moon_Rising/scenarios/S_Woods3.cfg:35
+#: Bad_Moon_Rising/scenarios/S_Woods9.cfg:31
 #: Bad_Moon_Rising/scenarios/S_Hills4.cfg:35
 #: Bad_Moon_Rising/scenarios/1_09_Pit.cfg:61
 #: Bad_Moon_Rising/scenarios/1_09_Pit.cfg:631
+#: Bad_Moon_Rising/scenarios/S_Snow7.cfg:31
+#: Bad_Moon_Rising/scenarios/S_Hills9.cfg:35
+#: Bad_Moon_Rising/scenarios/S_Woods8.cfg:31
 msgid "Time Runs Out"
 msgstr ""
 
@@ -562,15 +574,20 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Bad_Moon_Rising/scenarios/0_03_Unbreakable.cfg:46
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:47
 msgid "Reach the North edge of the map"
 msgstr ""
 
 #. [objective]: condition=lose
 #. [objective]: condition=win
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:64
 #: Bad_Moon_Rising/scenarios/0_03_Unbreakable.cfg:54
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:42
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:46
 #: Bad_Moon_Rising/scenarios/1_10_NewHome.cfg:58
 #: Bad_Moon_Rising/scenarios/1_10_OldFriend.cfg:56
 #: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:47
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:71
 msgid "Time runs out"
 msgstr ""
 
@@ -774,26 +791,29 @@ msgstr ""
 msgid ""
 "Scarrion lost conciousness.  When he awoke, he was in the lit chamber and "
 "dressed in blue robes.  He jumped to his feet and noticed he felt... "
-"different.  The winged woman was watching him.  When she saw him register "
-"her presence, she began to speak:"
+"different...  stronger and more alert, but there was something else as "
+"well.  He didn't have much time to think about it, for the winged woman was "
+"watching him.  When she saw him register her presence, she began to speak:"
 msgstr ""
 
 #. [part]
 #: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:20
 msgid ""
-"We have been dormant for a long time, but have now gleaned much information "
-"from you.  The world is not at all how we left it.  Your colleagues are "
+"We have been dormant for a long time, but you have awakened us.  The world "
+"is not at all how we left it.  While you slept, we...  asked you many "
+"questions and you gave us many alarming answers.  Your colleagues are "
 "engaged in a disastrous project and must be stopped."
 msgstr ""
 
 #. [part]
 #: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:27
 msgid ""
-"How would you like to serve revenge to Malevan and to Bersohn?  You will "
-"leave this mountain, rally more of your kind, and raise our sleeping kindred "
-"in the depths of a cavern to the southwest.  From there, you will assist us "
-"in saving the world from those who would destroy it.  You and the faithful "
-"will bear witness to the revival of order!"
+"We've given you a great gift...  How would you like to serve revenge to "
+"Malevan and to Bersohn?  You will leave this mountain, rally more of your "
+"kind, and raise our sleeping kindred in the depths of a cavern to the "
+"southwest.  From there, you will assist us in saving the world from those "
+"who would destroy it.  You and the faithful will bear witness to the revival "
+"of order!"
 msgstr ""
 
 #. [part]
@@ -944,38 +964,60 @@ msgid "Orders"
 msgstr ""
 
 #. [side]: type=Lieutenant, description=Lorenzon
+#. [side]: type=Ukian Commander, description=Lorenzon
+#: Bad_Moon_Rising/scenarios/S_Snow5.cfg:44
 #: Bad_Moon_Rising/scenarios/1_10_Epilogue.cfg:58
+#: Bad_Moon_Rising/scenarios/S_Hills6.cfg:40
 #: Bad_Moon_Rising/scenarios/S_Woods4.cfg:44
+#: Bad_Moon_Rising/scenarios/S_Snow9.cfg:44
 #: Bad_Moon_Rising/scenarios/S_Woods2.cfg:44
+#: Bad_Moon_Rising/scenarios/S_Snow6.cfg:40
+#: Bad_Moon_Rising/scenarios/S_Hills8.cfg:44
 #: Bad_Moon_Rising/scenarios/1_06_World.cfg:39
 #: Bad_Moon_Rising/scenarios/1_04_Fort.cfg:57
+#: Bad_Moon_Rising/scenarios/2_02_World.cfg:41
+#: Bad_Moon_Rising/scenarios/S_Snow8.cfg:44
 #: Bad_Moon_Rising/scenarios/1_08_World.cfg:40
+#: Bad_Moon_Rising/scenarios/S_Hills7.cfg:40
+#: Bad_Moon_Rising/scenarios/S_Woods5.cfg:40
 #: Bad_Moon_Rising/scenarios/1_00_Orders.cfg:38
+#: Bad_Moon_Rising/scenarios/S_Hills5.cfg:44
 #: Bad_Moon_Rising/scenarios/S_Snow3.cfg:44
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:121
 #: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:46
 #: Bad_Moon_Rising/scenarios/1_01_Enough.cfg:63
 #: Bad_Moon_Rising/scenarios/S_Snow1.cfg:44
 #: Bad_Moon_Rising/scenarios/1_09_Ruin.cfg:138
 #: Bad_Moon_Rising/scenarios/S_Snow2.cfg:44
 #: Bad_Moon_Rising/scenarios/S_Woods1.cfg:44
+#: Bad_Moon_Rising/scenarios/S_Woods7.cfg:40
 #: Bad_Moon_Rising/scenarios/S_Snow4.cfg:44
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:88
 #: Bad_Moon_Rising/scenarios/1_02_Rescue.cfg:72
 #: Bad_Moon_Rising/scenarios/S_Hills3.cfg:44
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:91
 #: Bad_Moon_Rising/scenarios/S_Hills1.cfg:44
 #: Bad_Moon_Rising/scenarios/1_10_NewHome.cfg:66
 #: Bad_Moon_Rising/scenarios/1_10_OldFriend.cfg:95
 #: Bad_Moon_Rising/scenarios/1_04_World.cfg:39
+#: Bad_Moon_Rising/scenarios/S_Woods6.cfg:40
 #: Bad_Moon_Rising/scenarios/1_07_Crush.cfg:83
 #: Bad_Moon_Rising/scenarios/1_09_World.cfg:36
+#: Bad_Moon_Rising/scenarios/2_03_World.cfg:42
 #: Bad_Moon_Rising/scenarios/1_06_Guardian.cfg:47
 #: Bad_Moon_Rising/scenarios/S_Hills2.cfg:44
 #: Bad_Moon_Rising/scenarios/S_Woods3.cfg:44
 #: Bad_Moon_Rising/scenarios/1_07_World.cfg:40
+#: Bad_Moon_Rising/scenarios/S_Woods9.cfg:40
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:116
 #: Bad_Moon_Rising/scenarios/S_Hills4.cfg:44
 #: Bad_Moon_Rising/scenarios/1_03_Camp.cfg:57
 #: Bad_Moon_Rising/scenarios/1_10_World.cfg:41
 #: Bad_Moon_Rising/scenarios/1_09_Pit.cfg:124
+#: Bad_Moon_Rising/scenarios/S_Snow7.cfg:40
 #: Bad_Moon_Rising/scenarios/1_02_World.cfg:46
+#: Bad_Moon_Rising/scenarios/S_Hills9.cfg:44
+#: Bad_Moon_Rising/scenarios/S_Woods8.cfg:40
 #: Bad_Moon_Rising/scenarios/1_05_Defend.cfg:75
 msgid "Lorenzon"
 msgstr ""
@@ -1011,14 +1053,14 @@ msgstr ""
 #. [unit]: type=General
 #. [side]: type=General, description=Norton
 #: Bad_Moon_Rising/scenarios/1_00_Orders.cfg:92
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:178
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:206
 msgid "General Norton"
 msgstr ""
 
 #. [unit]: type=General
 #. [side]: type=General, description=Horton
 #: Bad_Moon_Rising/scenarios/1_00_Orders.cfg:97
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:144
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:172
 msgid "General Horton"
 msgstr ""
 
@@ -1108,7 +1150,15 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Cantwell
+#. [message]: speaker=Dragoon1
+#. [message]: speaker=Cavalier1
+#. [message]: speaker=S_Knight
+#. [message]: speaker=Sadellon
 #: Bad_Moon_Rising/scenarios/1_00_Orders.cfg:197
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:482
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:538
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:595
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:669
 msgid "Yes, my lord!"
 msgstr ""
 
@@ -1153,38 +1203,59 @@ msgid "Kill Enemy leader"
 msgstr ""
 
 #. [objective]: condition=lose
+#: Bad_Moon_Rising/scenarios/S_Snow5.cfg:27
+#: Bad_Moon_Rising/scenarios/S_Hills6.cfg:27
 #: Bad_Moon_Rising/scenarios/S_Woods4.cfg:27
+#: Bad_Moon_Rising/scenarios/S_Snow9.cfg:27
 #: Bad_Moon_Rising/scenarios/S_Woods2.cfg:27
+#: Bad_Moon_Rising/scenarios/S_Snow6.cfg:27
+#: Bad_Moon_Rising/scenarios/S_Hills8.cfg:27
 #: Bad_Moon_Rising/scenarios/1_04_Fort.cfg:41
+#: Bad_Moon_Rising/scenarios/S_Snow8.cfg:27
+#: Bad_Moon_Rising/scenarios/S_Hills7.cfg:27
+#: Bad_Moon_Rising/scenarios/S_Woods5.cfg:27
+#: Bad_Moon_Rising/scenarios/S_Hills5.cfg:27
 #: Bad_Moon_Rising/scenarios/S_Snow3.cfg:27
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:48
 #: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:26
 #: Bad_Moon_Rising/scenarios/1_01_Enough.cfg:51
 #: Bad_Moon_Rising/scenarios/S_Snow1.cfg:27
 #: Bad_Moon_Rising/scenarios/1_09_Ruin.cfg:94
 #: Bad_Moon_Rising/scenarios/S_Snow2.cfg:27
 #: Bad_Moon_Rising/scenarios/S_Woods1.cfg:27
+#: Bad_Moon_Rising/scenarios/S_Woods7.cfg:27
 #: Bad_Moon_Rising/scenarios/S_Snow4.cfg:27
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:26
 #: Bad_Moon_Rising/scenarios/1_02_Rescue.cfg:60
 #: Bad_Moon_Rising/scenarios/S_Hills3.cfg:27
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:26
 #: Bad_Moon_Rising/scenarios/S_Hills1.cfg:27
 #: Bad_Moon_Rising/scenarios/1_10_NewHome.cfg:42
 #: Bad_Moon_Rising/scenarios/1_10_OldFriend.cfg:48
+#: Bad_Moon_Rising/scenarios/S_Woods6.cfg:27
 #: Bad_Moon_Rising/scenarios/1_07_Crush.cfg:59
 #: Bad_Moon_Rising/scenarios/1_06_Guardian.cfg:23
 #: Bad_Moon_Rising/scenarios/S_Hills2.cfg:27
 #: Bad_Moon_Rising/scenarios/S_Woods3.cfg:27
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:51
 #: Bad_Moon_Rising/scenarios/S_Hills4.cfg:27
 #: Bad_Moon_Rising/scenarios/1_03_Camp.cfg:41
 #: Bad_Moon_Rising/scenarios/1_09_Pit.cfg:49
 #: Bad_Moon_Rising/scenarios/1_09_Pit.cfg:623
+#: Bad_Moon_Rising/scenarios/S_Hills9.cfg:27
 #: Bad_Moon_Rising/scenarios/1_05_Defend.cfg:59
 msgid "Death of Lorenzon"
 msgstr ""
 
 #. [objective]: condition=lose
+#: Bad_Moon_Rising/scenarios/S_Snow5.cfg:31
 #: Bad_Moon_Rising/scenarios/S_Woods4.cfg:31
+#: Bad_Moon_Rising/scenarios/S_Snow9.cfg:31
 #: Bad_Moon_Rising/scenarios/S_Woods2.cfg:31
+#: Bad_Moon_Rising/scenarios/S_Hills8.cfg:31
 #: Bad_Moon_Rising/scenarios/1_04_Fort.cfg:45
+#: Bad_Moon_Rising/scenarios/S_Snow8.cfg:31
+#: Bad_Moon_Rising/scenarios/S_Hills5.cfg:31
 #: Bad_Moon_Rising/scenarios/S_Snow3.cfg:31
 #: Bad_Moon_Rising/scenarios/1_01_Enough.cfg:55
 #: Bad_Moon_Rising/scenarios/S_Snow1.cfg:31
@@ -1199,6 +1270,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/S_Woods3.cfg:31
 #: Bad_Moon_Rising/scenarios/S_Hills4.cfg:31
 #: Bad_Moon_Rising/scenarios/1_03_Camp.cfg:45
+#: Bad_Moon_Rising/scenarios/S_Hills9.cfg:31
 #: Bad_Moon_Rising/scenarios/1_05_Defend.cfg:63
 msgid "Death of Duval"
 msgstr ""
@@ -1361,7 +1433,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/1_09_World.cfg:211
 #: Bad_Moon_Rising/scenarios/1_07_World.cfg:271
 #: Bad_Moon_Rising/scenarios/1_03_Camp.cfg:256
-#: Bad_Moon_Rising/scenarios/1_02_World.cfg:316
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:328
 #: Bad_Moon_Rising/scenarios/1_05_Defend.cfg:240
 msgid "THAT is what happens to traitors!"
 msgstr ""
@@ -1558,7 +1630,9 @@ msgstr ""
 msgid "Heh!  Now, that's motivation!  Go!"
 msgstr ""
 
+#. [unit]: type=Ukian Deadeye, description=Raenna
 #. [unit]: type=Ukian Hawkeye, description=Raenna
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:154
 #: Bad_Moon_Rising/scenarios/1_02_Rescue.cfg:214
 msgid "Raenna"
 msgstr ""
@@ -1631,7 +1705,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/1_07_World.cfg:284
 #: Bad_Moon_Rising/scenarios/S_Hills4.cfg:140
 #: Bad_Moon_Rising/scenarios/1_03_Camp.cfg:269
-#: Bad_Moon_Rising/scenarios/1_02_World.cfg:329
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:341
 #: Bad_Moon_Rising/scenarios/1_05_Defend.cfg:253
 msgid "We had just started..."
 msgstr ""
@@ -1662,9 +1736,11 @@ msgstr ""
 
 #. [scenario]
 #: Bad_Moon_Rising/scenarios/1_06_World.cfg:4
+#: Bad_Moon_Rising/scenarios/2_02_World.cfg:4
 #: Bad_Moon_Rising/scenarios/1_08_World.cfg:4
 #: Bad_Moon_Rising/scenarios/1_04_World.cfg:4
 #: Bad_Moon_Rising/scenarios/1_09_World.cfg:4
+#: Bad_Moon_Rising/scenarios/2_03_World.cfg:4
 #: Bad_Moon_Rising/scenarios/1_07_World.cfg:4
 #: Bad_Moon_Rising/scenarios/1_10_World.cfg:4
 #: Bad_Moon_Rising/scenarios/1_02_World.cfg:4
@@ -1705,26 +1781,33 @@ msgid "We should not dally here, it's time to go."
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios/1_02_World.cfg:237
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:221
+msgid ""
+"We should pay a visit to our sisters in Korkath, they will not be spared the "
+"wrath of Huric."
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:249
 msgid ""
 "If a large Orcish force is attacking Fort Kuhle, it is unwise to keep "
 "wandering in this direction..."
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios/1_02_World.cfg:250
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:262
 msgid "We are headed straight for Huric.  Let's turn back..."
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios/1_02_World.cfg:263
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:275
 msgid ""
 "The people are tired, we should set up camp here.  I hope they don't find "
 "us..."
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios/1_02_World.cfg:292
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:304
 msgid "Maybe we can st-  What have we here?"
 msgstr ""
 
@@ -1733,7 +1816,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/1_08_World.cfg:273
 #: Bad_Moon_Rising/scenarios/1_04_World.cfg:248
 #: Bad_Moon_Rising/scenarios/1_07_World.cfg:298
-#: Bad_Moon_Rising/scenarios/1_02_World.cfg:343
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:355
 msgid "It's them!  Charge!!"
 msgstr ""
 
@@ -1742,7 +1825,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/1_08_World.cfg:277
 #: Bad_Moon_Rising/scenarios/1_04_World.cfg:252
 #: Bad_Moon_Rising/scenarios/1_07_World.cfg:302
-#: Bad_Moon_Rising/scenarios/1_02_World.cfg:347
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:359
 msgid "Give my regards to Lieutenant Cantwell, traitor!"
 msgstr ""
 
@@ -1751,7 +1834,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/1_08_World.cfg:281
 #: Bad_Moon_Rising/scenarios/1_04_World.cfg:256
 #: Bad_Moon_Rising/scenarios/1_07_World.cfg:306
-#: Bad_Moon_Rising/scenarios/1_02_World.cfg:351
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:363
 msgid "(Gulp!)"
 msgstr ""
 
@@ -2014,19 +2097,34 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
+#: Bad_Moon_Rising/scenarios/S_Snow5.cfg:23
+#: Bad_Moon_Rising/scenarios/S_Hills6.cfg:23
 #: Bad_Moon_Rising/scenarios/S_Woods4.cfg:23
+#: Bad_Moon_Rising/scenarios/S_Snow9.cfg:23
 #: Bad_Moon_Rising/scenarios/S_Woods2.cfg:23
+#: Bad_Moon_Rising/scenarios/S_Snow6.cfg:23
+#: Bad_Moon_Rising/scenarios/S_Hills8.cfg:23
 #: Bad_Moon_Rising/scenarios/1_04_Fort.cfg:37
+#: Bad_Moon_Rising/scenarios/S_Snow8.cfg:23
+#: Bad_Moon_Rising/scenarios/S_Hills7.cfg:23
+#: Bad_Moon_Rising/scenarios/S_Woods5.cfg:23
+#: Bad_Moon_Rising/scenarios/S_Hills5.cfg:23
 #: Bad_Moon_Rising/scenarios/S_Snow3.cfg:23
 #: Bad_Moon_Rising/scenarios/S_Snow1.cfg:23
 #: Bad_Moon_Rising/scenarios/S_Snow2.cfg:23
 #: Bad_Moon_Rising/scenarios/S_Woods1.cfg:23
+#: Bad_Moon_Rising/scenarios/S_Woods7.cfg:23
 #: Bad_Moon_Rising/scenarios/S_Snow4.cfg:23
 #: Bad_Moon_Rising/scenarios/S_Hills3.cfg:23
 #: Bad_Moon_Rising/scenarios/S_Hills1.cfg:23
+#: Bad_Moon_Rising/scenarios/S_Woods6.cfg:23
 #: Bad_Moon_Rising/scenarios/S_Hills2.cfg:23
 #: Bad_Moon_Rising/scenarios/S_Woods3.cfg:23
+#: Bad_Moon_Rising/scenarios/S_Woods9.cfg:23
 #: Bad_Moon_Rising/scenarios/S_Hills4.cfg:23
+#: Bad_Moon_Rising/scenarios/S_Snow7.cfg:23
+#: Bad_Moon_Rising/scenarios/S_Hills9.cfg:23
+#: Bad_Moon_Rising/scenarios/S_Woods8.cfg:23
 #: Bad_Moon_Rising/scenarios/1_05_Defend.cfg:51
 msgid "Defeat Enemy Leader"
 msgstr ""
@@ -2265,11 +2363,15 @@ msgid "Hold Out Until End of Turns"
 msgstr ""
 
 #. [objective]: condition=lose
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:60
 #: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:34
 #: Bad_Moon_Rising/scenarios/1_09_Ruin.cfg:102
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:38
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:38
 #: Bad_Moon_Rising/scenarios/1_10_NewHome.cfg:50
 #: Bad_Moon_Rising/scenarios/1_07_Crush.cfg:63
 #: Bad_Moon_Rising/scenarios/1_06_Guardian.cfg:35
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:63
 #: Bad_Moon_Rising/scenarios/1_09_Pit.cfg:57
 #: Bad_Moon_Rising/scenarios/1_05_Defend.cfg:67
 msgid "Death of Raenna"
@@ -2657,10 +2759,14 @@ msgid "Defeat Enemy Leaders"
 msgstr ""
 
 #. [objective]: condition=lose
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:56
 #: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:30
 #: Bad_Moon_Rising/scenarios/1_09_Ruin.cfg:98
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:34
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:34
 #: Bad_Moon_Rising/scenarios/1_10_NewHome.cfg:46
 #: Bad_Moon_Rising/scenarios/1_07_Crush.cfg:67
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:59
 #: Bad_Moon_Rising/scenarios/1_09_Pit.cfg:53
 msgid "Death of Belleros"
 msgstr ""
@@ -2670,7 +2776,9 @@ msgstr ""
 msgid "Enemy Reaches Supply Depot"
 msgstr ""
 
+#. [unit]: type=Ukian Subcommander, description=Belleros
 #. [unit]: type=Ukian Officer, description=Belleros
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:168
 #: Bad_Moon_Rising/scenarios/1_07_Crush.cfg:94
 msgid "Belleros"
 msgstr ""
@@ -2835,119 +2943,180 @@ msgstr ""
 
 #. [unit]: type=Royal Guard, description=Guard1
 #. [unit]: type=Royal Guard, description=Guard2
+#. [unit]: type=Royal Guard, description=Guard3
+#. [unit]: type=Royal Guard, description=Guard4
+#. [unit]: type=Royal Guard, description=Guard5
+#. [unit]: type=Royal Guard, description=Guard6
 #: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:93
 #: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:100
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:107
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:114
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:121
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:128
 msgid "Huric's Bodyguard"
 msgstr ""
 
 #. [side]: type=Primevalist Leader, description=Vazzan
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:213
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:241
 #: Bad_Moon_Rising/scenarios/1_09_Pit.cfg:182
 msgid "General Vazzan"
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:282
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:320
 msgid "Duval!  Maskov!  We're here!"
 msgstr ""
 
 #. [message]: speaker=Huric
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:286
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:324
 msgid ""
 "Really!  Do you have the help of ghosts?  Duval died months ago, and I'm "
 "told you killed Maskov...  You truely are a madman."
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:290
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:328
 msgid "(Duval died months ago?)"
 msgstr ""
 
 #. [message]: speaker=Raenna
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:294
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:332
 msgid "(Something's wrong, that's not General Maskov to the south...)"
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:304
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:342
 msgid "You there!  Who are you?  Where is General Maskov?"
 msgstr ""
 
 #. [message]: speaker=Vazzan
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:308
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:346
 msgid ""
 "I am General Vazzan!  Maskov was a fool and was not willing to accept the "
 "Restoration of Order!"
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:312
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:350
 msgid "What!?  What the hell is going on?"
 msgstr ""
 
 #. [message]: speaker=Huric
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:316
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:354
 msgid ""
 "I might ask you the same...  You once fought for me, Lorenzon.  Now you've "
 "joined the madmen, and are trying to destroy the kingdom.  But know this..."
 msgstr ""
 
 #. [message]: speaker=Huric
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:320
-msgid ""
-"I will destroy you, I will destroy the rebellion!  You will not escape your "
-"fate!"
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:358
+msgid "I will destroy you, I will destroy the rebellion!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:331
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:344
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:357
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:369
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:382
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:395
 #: Bad_Moon_Rising/scenarios/1_09_Pit.cfg:393
 msgid "Ugh.  What a mess..."
 msgstr ""
 
 #. [message]: speaker=unit
 #. [message]: speaker=second_unit
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:370
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:386
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:408
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:424
 msgid "I must be going now, maybe we shall meet again."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:406
-msgid "GRRAA-"
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:444
+msgid "GrraaAAA-"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:410
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:448
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:331
 msgid "Silence! *WHACK*"
 msgstr ""
 
 #. [message]: speaker=Horton
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:414
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:452
 msgid "No!  What have you done!?"
 msgstr ""
 
 #. [message]: speaker=Norton
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:418
-msgid "Run for your lives!"
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:456
+msgid "Huric has fallen!  Run for your lives!"
 msgstr ""
 
-#. [message]: speaker=narrator
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:422
-msgid ""
-"The next few scenarios may load, but this is the end of the campaign for "
-"now.  More scenarios are on the way, stay tuned..."
+#. [message]: speaker=Dragoon1
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:474
+msgid "My Lord!  We got word of the trouble, Northern Cavalry is on its way!"
 msgstr ""
 
 #. [message]: speaker=Huric
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:433
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:478
+msgid "Good!  We need to end this as fast as possible, hold nothing back."
+msgstr ""
+
+#. [message]: speaker=Cavalier1
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:530
+msgid "My lord!  Royal Cavalry, Northern Division, reporting!"
+msgstr ""
+
+#. [message]: speaker=Huric
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:534
+msgid "You can see the enemy!  Destroy them!"
+msgstr ""
+
+#. [message]: speaker=S_Knight
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:587
+msgid "Lord Huric!  Royal Horseman reporting, Southern Division!"
+msgstr ""
+
+#. [message]: speaker=Huric
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:591
+msgid "Good!  You see who the enemy is.  Run them down!"
+msgstr ""
+
+#. [message]: speaker=Huric
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:607
+msgid ""
+"This is not going well...  Send word to Sir Sadellon that his presence is "
+"required.  He and his family have grown fat under my protection, it's time "
+"they paid their due."
+msgstr ""
+
+#. [message]: speaker=Norton
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:611
+msgid "Yes, my lord.  A rider is on the way."
+msgstr ""
+
+#. [unit]: type=Grand Knight, description=Sadellon
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:644
+msgid "Sir Sadellon"
+msgstr ""
+
+#. [message]: speaker=Sadellon
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:661
+msgid "Lord Huric!  We came as fast as we could!"
+msgstr ""
+
+#. [message]: speaker=Huric
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:665
+msgid ""
+"Your help is greatly appreciated, Sir Sadellon, and comes none too soon.  "
+"The rebels have gotten strong and are quite dangerous, we need to destroy "
+"them!"
+msgstr ""
+
+#. [message]: speaker=Huric
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:681
 msgid "Ah, fresh troops have arrived..."
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:437
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:685
 msgid ""
 "This has spun out of control...  Oh, why did I ever listen to that evil old "
 "man?"
@@ -2977,6 +3146,8 @@ msgstr ""
 
 #. [time]
 #. [scenario]
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:16
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:32
 #: Bad_Moon_Rising/scenarios/1_09_Pit.cfg:4
 #: Bad_Moon_Rising/scenarios/1_09_Pit.cfg:14
 #: Bad_Moon_Rising/scenarios/1_09_Pit.cfg:30
@@ -3001,12 +3172,16 @@ msgstr ""
 
 #. [unit]: type=Elvish Marksman, description=Guard1
 #. [unit]: type=Elvish Hero, description=Guard2
-#. [unit]: type=Elvish Marksman, description=Guard3
 #. [unit]: type=Elvish Hero, description=Guard4
 #. [unit]: type=Elvish Marksman, description=Guard5
+#. [unit]: type=Elvish Marksman, description=Guard3
 #. [unit]: type=Primevalist Fighter, description=Guard1
 #. [unit]: type=Primevalist Shield, description=Guard2
 #. [unit]: type=Primevalist Shield, description=Guard3
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:258
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:265
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:305
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:312
 #: Bad_Moon_Rising/scenarios/1_10_NewHome.cfg:144
 #: Bad_Moon_Rising/scenarios/1_10_NewHome.cfg:150
 #: Bad_Moon_Rising/scenarios/1_10_NewHome.cfg:156
@@ -3647,6 +3822,7 @@ msgstr ""
 #. [unit]: type=Elvish Marshal, description=Valeron
 #. [side]: type=Elvish Marshal, description=Valeron
 #: Bad_Moon_Rising/scenarios/1_10_Epilogue.cfg:76
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:229
 #: Bad_Moon_Rising/scenarios/1_10_NewHome.cfg:129
 #: Bad_Moon_Rising/scenarios/1_10_OldFriend.cfg:212
 msgid "Valeron"
@@ -3663,8 +3839,8 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/1_10_Epilogue.cfg:89
 msgid ""
 "I'm not sure what happened, Elf Leader.  That wizard was an old foe, one "
-"whom I had thought dead...  Unlike the last time, we found his corpse.  He "
-"should bother us no more."
+"whom I had thought dead...  But his followers are gone and he has nowhere to "
+"run.  He is most likely feeding the wolves now, I should trouble us no more."
 msgstr ""
 
 #. [message]: speaker=Valeron
@@ -3901,13 +4077,21 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=unit
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:530
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:431
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:249
 #: Bad_Moon_Rising/scenarios/1_10_OldFriend.cfg:377
 #: Bad_Moon_Rising/scenarios/1_10_OldFriend.cfg:390
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:275
 msgid "Carry on..."
 msgstr ""
 
 #. [message]: speaker=unit
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:569
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:470
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:288
 #: Bad_Moon_Rising/scenarios/1_10_OldFriend.cfg:403
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:314
 msgid "Ouch!"
 msgstr ""
 
@@ -4081,11 +4265,15 @@ msgid "Flee to the South."
 msgstr ""
 
 #. [objective]: condition=lose
+#: Bad_Moon_Rising/scenarios/2_02_World.cfg:32
+#: Bad_Moon_Rising/scenarios/2_03_World.cfg:29
 #: Bad_Moon_Rising/scenarios/1_10_World.cfg:32
 msgid "Get attacked by the orcish horde (Orcish Warrior)."
 msgstr ""
 
 #. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_02_World.cfg:138
+#: Bad_Moon_Rising/scenarios/2_03_World.cfg:139
 #: Bad_Moon_Rising/scenarios/1_10_World.cfg:138
 msgid ""
 "The terrain is rough over there, we would be better off keeping near the "
@@ -4093,6 +4281,8 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_02_World.cfg:151
+#: Bad_Moon_Rising/scenarios/2_03_World.cfg:152
 #: Bad_Moon_Rising/scenarios/1_10_World.cfg:151
 msgid "This is not helping, we should head south."
 msgstr ""
@@ -4109,62 +4299,904 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=second_unit
+#: Bad_Moon_Rising/scenarios/2_02_World.cfg:226
+#: Bad_Moon_Rising/scenarios/2_03_World.cfg:302
 #: Bad_Moon_Rising/scenarios/1_10_World.cfg:212
 msgid "Ha Ha!  Die, little worms."
 msgstr ""
 
 #. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_02_World.cfg:240
+#: Bad_Moon_Rising/scenarios/2_03_World.cfg:316
 #: Bad_Moon_Rising/scenarios/1_10_World.cfg:226
 msgid "Oh my, we are going to be slaughtered..."
 msgstr ""
 
 #. [scenario]
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:4
+msgid "Trouble with Elves"
+msgstr ""
+
+#. [objective]: condition=win
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:44
+msgid "Move heros to the north edge of map"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:52
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:30
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:30
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:55
+msgid "Death of Carghanna"
+msgstr ""
+
+#. [unit]: type=Ukian Witch, description=Carghanna
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:140
+msgid "Carghanna"
+msgstr ""
+
+#. [side]: type=Primevalist Monk, description=Asher
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:184
+msgid "Asher"
+msgstr ""
+
+#. [unit]: type=Primevalist Fighter, description=Skulker
+#. [unit]: type=Primevalist Follower, description=Skulker2
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:213
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:220
+msgid "Skulker"
+msgstr ""
+
+#. [unit]: type=Elvish Marksman, description=Sniper1
+#. [unit]: type=Elvish Marksman, description=Sniper2
+#. [unit]: type=Elvish Archer, description=Sniper3
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:272
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:279
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:286
+msgid "Sniper"
+msgstr ""
+
+#. [message]: speaker=Carghanna
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:322
+msgid "Oh!  This is beautiful!"
+msgstr ""
+
+#. [message]: speaker=Belleros
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:326
+msgid ""
+"It's nicer in the spring - that tree would be covered in little white "
+"flowers.  But now, if we are lucky, we might see that bird I told you about."
+msgstr ""
+
+#. [message]: speaker=Belleros
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:337
+msgid "That sounded like an arrow, get down!"
+msgstr ""
+
+#. [message]: speaker=Carghanna
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:341
+msgid "(Can you see from where it may have come?)"
+msgstr ""
+
+#. [message]: speaker=Belleros
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:352
+msgid ""
+"(That one came from the southeast.  We should retreat back to the castle.)"
+msgstr ""
+
+#. [message]: speaker=Valeron
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:356
+msgid ""
+"Murderous knaves!  We let you live on our northern border and in return you "
+"assassinate our people!?"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:360
+msgid "Huh?  What has happened, Valeron?  (And where is Belleros?)"
+msgstr ""
+
+#. [message]: speaker=Valeron
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:364
+msgid ""
+"Don't play games with me, knave.  What were you up to, what did they see "
+"that you had to kill them?"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:368
+msgid ""
+"I really have no idea what you are talking about.  (Raenna, try to find out "
+"if anyone knows what's going on, I can't diffuse this if I'm in the dark.)"
+msgstr ""
+
+#. [message]: speaker=Raenna
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:372
+msgid "(Yes, sir!)"
+msgstr ""
+
+#. [message]: speaker=Raenna
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:377
+msgid ""
+"Aha!  I haven't seen those people in many seasons.  This could explain "
+"things."
+msgstr ""
+
+#. [message]: speaker=Raenna
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:382
+msgid ""
+"Sir!  There is a small camp of those cultists to the north!  They must have "
+"something to do with whatever has the elf so upset."
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:386
+msgid ""
+"Valeron!  It has come to my attention that there is a small camp of familiar "
+"foes-"
+msgstr ""
+
+#. [message]: speaker=Valeron
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:390
+msgid ""
+"You cannot talk your way out of this!  Allowing you to stay here was a "
+"mistake, you must leave!  I'm sending word to the Council, you will go back "
+"north or die!"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:394
+msgid ""
+"(I'm not sure what the 'Council' is, but it sounds bad.  We should clear out "
+"those fanatics and retreat back north.  The elves have the advantage here in "
+"the forest, but they are helpless in the snow.)"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:398
+msgid ""
+"(There he is.)  Belleros!  What the hell are you doing?  Get out of there!"
+msgstr ""
+
+#. [message]: speaker=Belleros
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:402
+msgid "We are trying!"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:485
+msgid ""
+"It is possible those lunatics were just dead-enders, but I suspect their "
+"presence is an evil omen."
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:489
+msgid ""
+"Say good-bye to the grassy plains, folks.  It was nice while it lasted..."
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:502
+msgid "Move it people!  We need to head north!"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:519
+msgid ""
+"Valeron may deserve it, but we shouldn't waste too much time attacking him."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:543
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:444
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:262
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:288
+msgid "Uhghh..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:556
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:457
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:275
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:301
+msgid "Ach!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:582
+msgid ""
+"My death will only establish your guilt before the Council, vile ones..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:592
+msgid "Heathens, you will never find rest until you accept... Order..."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:596
+msgid "Such strange talk."
+msgstr ""
+
+#. [message]: description=Valeron
+#: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:608
+msgid ""
+"Riders are here, they say the Council agrees that you must go!  More "
+"fighters are on the way, it's over thugs!"
+msgstr ""
+
+#. [scenario]
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:4
+msgid "Mercenaries"
+msgstr ""
+
+#. [objective]: condition=win
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:22
+msgid "Defeat the Skoro Banner"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:42
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:67
+msgid "Death of Aldak Gareth"
+msgstr ""
+
+#. [side]: type=Orcish Warlord, description=Borgak Skoro
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:112
+msgid "Borgak Skoro"
+msgstr ""
+
+#. [unit]: type=Orcish Warrior, description=Grunk Skoro
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:146
+msgid "Grunk Skoro"
+msgstr ""
+
+#. [unit]: type=Orcish Slayer, description=Plik Skoro
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:153
+msgid "Plik Skoro"
+msgstr ""
+
+#. [side]: type=Orcish Warrior, description=Aldak Gareth
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:163
+msgid "Aldak Gareth"
+msgstr ""
+
+#. [unit]: type=Orcish Crossbowman, description=Bralt Gareth
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:180
+msgid "Bralt Gareth"
+msgstr ""
+
+#. [message]: speaker=Aldak Gareth
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:190
+msgid ""
+"I've already told you, you cannot pass!  Not only would Teora kill me, but "
+"you would stab me in the back.  Your tribe is without honour!"
+msgstr ""
+
+#. [message]: speaker=Borgak Skoro
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:194
+msgid ""
+"I only asked you as a sign of respect, but now with that formality over:  "
+"Die, Gareth Banner!  We will finish what we started when the humans were "
+"still here!"
+msgstr ""
+
+#. [message]: speaker=Borgak Skoro
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:202
+msgid ""
+"You little worms have a lot a' nerve showin your faces around here...  As I "
+"said, we will finish what we started!"
+msgstr ""
+
+#. [message]: speaker=Aldak Gareth
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:206
+msgid ""
+"You people...  We suffered greatly for Tahn Gareth's decision.  If you run "
+"away now, we will hunt you down like the craven dogs you are."
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:210
+msgid ""
+"We remember Gareth's aid, and you are right:  we ought to return the favor."
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:214
+msgid ""
+"You of the Skoro Banner, it is time to finish what was started.  We drove "
+"back your assault on us in the south, and now we will finish you off!"
+msgstr ""
+
+#. [message]: speaker=Aldak Gareth
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:218
+msgid "Thank you, humans.  We must keep Skoro Banner out of the cave."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:231
+msgid "Now, to find out what is going on down here."
+msgstr ""
+
+#. [message]: speaker=Aldak Gareth
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:235
+msgid ""
+"That one fool cannot do much on his own, but when Teora forces find him, "
+"they will punish us severely.  We're as good as dead..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:301
+msgid ""
+"Not very effective allies...  At least Teora Banner will wipe you all out."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:311
+msgid "Grrr...  What has become of us that we fall to goblins and worms..."
+msgstr ""
+
+#. [message]: speaker=Aldak Gareth
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:315
+msgid ""
+"Well, humans, you have helped us, like we helped you.  All debts are paid."
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:319
+msgid ""
+"We have been away for a while, I would like to ask:  Have you seen any other "
+"humans in the northlands?"
+msgstr ""
+
+#. [message]: speaker=Aldak Gareth
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:323
+msgid ""
+"Some of the human villages have survivors, Teora banner does not have much "
+"interest in their pitiful land and they are no threat, so we leave them be.  "
+"A small band of unfamiliar fighters did attack us a few days ago, but they "
+"were few in number."
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:327
+msgid ""
+"I would not ask this if it was not important:  Is there any way we can enter "
+"that cave?"
+msgstr ""
+
+#. [message]: speaker=Aldak Gareth
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:331
+msgid ""
+"Not a chance!  I am curious as well, but Teora would rape and kill Gareth "
+"Banner if either of us step foot in that cave!"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:335
+msgid ""
+"I get the sense that you serve the Teora Banner out of fear, not respect.  "
+"What if I could offer you a fighting chance to stand up to them?"
+msgstr ""
+
+#. [message]: speaker=Aldak Gareth
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:339
+msgid ""
+"I'll believe it if I see it!  Sorry, your offer of assistance is "
+"appreciated, but we need gold for weapons and supplies.  Bring me one "
+"thousand of those gold things the merchants want, I'll let you pass.  'Till "
+"then, no pass!"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:342
+msgid "It seems we have some fundraising to do..."
+msgstr ""
+
+#. [message]: description=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:551
+#: Bad_Moon_Rising/scenarios/2_02_MineMouth.cfg:362
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:351
+msgid "More orcs, and they carry the Skoro Banner..."
+msgstr ""
+
+#. [objective]: condition=win
+#: Bad_Moon_Rising/scenarios/2_02_World.cfg:28
+msgid "Head to back to the Copper Mine"
+msgstr ""
+
+#. [side]: type=Orcish Sovereign, description=Skalla Teora
+#: Bad_Moon_Rising/scenarios/2_02_World.cfg:56
+#: Bad_Moon_Rising/scenarios/2_03_World.cfg:57
+msgid "Skalla Teora"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_02_World.cfg:164
+msgid ""
+"The orcs have regained firm control of the north, but they often fight "
+"amongst themselves.  It looks like the mob at the Copper Mine is no "
+"exception..."
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_02_World.cfg:189
+msgid "There are still people living here?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Bad_Moon_Rising/scenarios/2_02_World.cfg:193
+msgid ""
+"Yea, it ain't easy, but life must go on.  Please do not stay long, the crowd "
+"you lead will attract attention."
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_02_World.cfg:198
+msgid "We will move along, but what do you know of the old Copper Mine?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Bad_Moon_Rising/scenarios/2_02_World.cfg:202
+msgid ""
+"One of the leading Chieftans, Teora - Something Teora, has taken a great "
+"interest in it.  He hires some of the conquered clans to guard the entrance, "
+"they give us trouble sometimes.  That is all I know, now please leave."
+msgstr ""
+
+#. [scenario]
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:4
+msgid "An Opportunity"
+msgstr ""
+
+#. [objective]: condition=win
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:22
+msgid "Rescue Hrala Gareth"
+msgstr ""
+
+#. [objectives]
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:44
+msgid ""
+"This is the last scenario for now, more are in progress.  This may not "
+"function correctly..."
+msgstr ""
+
+#. [side]: type=Hostage Taker, description=Branson
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:144
+msgid "Lieutenant Branson"
+msgstr ""
+
+#. [side]: type=Orcish Warrior, description=Grat Gareth
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:235
+msgid "Grat Gareth"
+msgstr ""
+
+#. [unit]: type=Orcish Grunt, description=Parthak Gareth
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:251
+msgid "Parthak Gareth"
+msgstr ""
+
+#. [message]: speaker=Grat Gareth
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:344
+msgid "Great, more humans!  Hrala, do not give up, we'll think of something."
+msgstr ""
+
+#. [message]: speaker=Parthak Gareth
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:348
+msgid "Will we?  We're outnumbered, they've got Hrala..."
+msgstr ""
+
+#. [message]: speaker=Grat Gareth
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:352
+msgid "Shut up, Parthak!  C'mon grunts!  We fail - we die, move!"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:356
+msgid ""
+"Hail, Gareth Banner!  We are not here to attack you.  Aldak sends his "
+"regards."
+msgstr ""
+
+#. [message]: speaker=Grat Gareth
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:360
+msgid "Whaa?"
+msgstr ""
+
+#. [message]: speaker=Branson
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:364
+msgid "What?!  Who in hell are you?"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:368
+msgid "What is going on?  Who is 'Hrala'?"
+msgstr ""
+
+#. [message]: speaker=Grat Gareth
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:372
+msgid ""
+"Hrala is our Chief's daughter, she is also one of our few healers.  Those "
+"invaders are holding her hostage, we need to free her!"
+msgstr ""
+
+#. [message]: speaker=Branson
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:376
+msgid ""
+"I cannot believe what I am hearing!  You are humans, what are you doing?  We "
+"need this hostage, or else the orcish beasts will close in on us!"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:380
+msgid ""
+"I see you carry loads of shiny metal trinkets, why not trade them for safe "
+"passage?"
+msgstr ""
+
+#. [message]: speaker=Branson
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:384
+msgid ""
+"We need to take this cargo back to Weldyn...  Enough!  I owe you no "
+"explanations for you have aligned yourself with the orcs!  May you end up in "
+"their stew-pots - this chat is over!"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:388
+msgid ""
+"Very well.  Gareth Banner!  We will help save Hrala, in return we ask for "
+"the cargo that the enemy carries."
+msgstr ""
+
+#. [message]: speaker=Grat Gareth
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:392
+msgid "Fair enough!"
+msgstr ""
+
+#. [message]: speaker=Branson
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:396
+msgid "Orc lover!  I-I'm not afraid to slit this bitch's throught, stay away!"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:400
+msgid ""
+"Hmmm.  The Lieutenant is terrified and will behave irrationally, we need to "
+"act fast before he kills the hostage.  There is no time to set up camp, it "
+"is up to us who are already here."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:413
+msgid ""
+"This position is defensible, I think we're going to make it back Weldyn "
+"after all!"
+msgstr ""
+
+#. [message]: speaker=Grat Gareth
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:417
+msgid ""
+"No!  They still have Hrala...  What are they going to do to her?  What is "
+"the Chief going to do to us?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:483
+msgid "Ah well, we tried...  We choose our allies poorly..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:497
+msgid "What will... happen... ... We've failed..."
+msgstr ""
+
+#. [unit]: type=Hrala, description=Hrala
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:502
+msgid "Hrala Gareth"
+msgstr ""
+
+#. [message]: speaker=Grat Gareth
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:508
+msgid "Hrala!  Are you OK?"
+msgstr ""
+
+#. [message]: speaker=Hrala Gareth
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:512
+msgid "Yes, I am fine.  Thank you...  Humans?"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:516
+msgid "Yes.  We are friends of Gareth Banner, though enemies of other banners."
+msgstr ""
+
+#. [message]: speaker=Grat Gareth
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:520
+msgid "Thank you for your help, you may keep the human's trinkets."
+msgstr ""
+
+#. [message]: speaker=Hrala Gareth
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:524
+msgid ""
+"Wait!  Humans wandering around here on the tundra will not last long.  Are "
+"you mercenaries?"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:528
+msgid ""
+"No, we're not mercenaries.  We need to get to the Copper Mine, but your "
+"friend Aldak is blocking the way.  We need to pay him to pass."
+msgstr ""
+
+#. [message]: speaker=Hrala Gareth
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:532
+msgid ""
+"Really!  I wonder what he is up to...  We will catch up with him.  Take the "
+"trinkets."
+msgstr ""
+
+#. [message]: speaker=Grat Gareth
+#: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:536
+msgid ""
+"Thank you for your help.  If we ever get the upper hand, you will not be "
+"driven back south."
+msgstr ""
+
+#. [scenario]
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:4
+msgid "The Pit - Revisited"
+msgstr ""
+
+#. [side]: type=Orcish Warlord, description=Tranta Teora
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:137
+msgid "Tranta Teora"
+msgstr ""
+
+#. [unit]: type=Orcish Warrior, description=Strata Teora
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:171
+msgid "Strata Teora"
+msgstr ""
+
+#. [unit]: type=Orcish Slayer, description=Brok Teora
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:178
+msgid "Brok Teora"
+msgstr ""
+
+#. [side]: type=Orcish Warlord, description=Droktah Teora
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:187
+msgid "Droktah Teora"
+msgstr ""
+
+#. [unit]: type=Orcish Crossbowman, description=Hank Teora
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:205
+msgid "Hank Teora"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:215
+msgid "We're back!  Now we need to find out what the cultists are after..."
+msgstr ""
+
+#. [message]: speaker=Raenna
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:219
+msgid ""
+"You assume that their attack had something to do with this place, but do "
+"what evidence do we have?"
+msgstr ""
+
+#. [message]: speaker=Hank Teora
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:227
+msgid ""
+"Hrah!  Human voices!  It was a mistake to leave those craven Gareth whelps "
+"guarding the entrance!"
+msgstr ""
+
+#. [message]: speaker=Raenna
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:231
+msgid "Belleros, you talk too much."
+msgstr ""
+
+#. [message]: speaker=Belleros
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:235
+msgid "But-"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:239
+msgid ""
+"Knock it off, both of you!  We've got a lot of orcs to plow through, don't "
+"get distracted."
+msgstr ""
+
+#. [message]: speaker=Hank Teora
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:252
+msgid "The human attackers are moving in!"
+msgstr ""
+
+#. [message]: speaker=Droktah Teora
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:256
+msgid ""
+"Close ranks, grunts!  If we lose the treasure to the humans, Skalla will "
+"skin us alive!"
+msgstr ""
+
+#. [message]: speaker=Raenna
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:260
+msgid "Treasure?"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:264
+msgid ""
+"I doubt they really know why they are here.  Scarrion was after something "
+"more significant than gold."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:327
+msgid "GrrrraaaaaAAAAAHHHH!"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:335
+msgid "The orcs are fleeing, I think we've regained control of this cave..."
+msgstr ""
+
+#. [objective]: condition=win
+#: Bad_Moon_Rising/scenarios/2_03_World.cfg:25
+msgid "Gather money to bribe Aldak Gareth"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Bad_Moon_Rising/scenarios/2_03_World.cfg:170
+msgid "Do you have the money?"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Bad_Moon_Rising/scenarios/2_03_World.cfg:173
+msgid "Yes, now please let us through."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Bad_Moon_Rising/scenarios/2_03_World.cfg:183
+msgid ""
+"Do you think I'm stupid?  You don't have the money, no you may not go "
+"through."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Bad_Moon_Rising/scenarios/2_03_World.cfg:190
+msgid ""
+"Good, this will be a great help in exterminating Skoro Banner!  (And Teora "
+"Banner too, but you did not hear me say that...)  You may pass."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Bad_Moon_Rising/scenarios/2_03_World.cfg:213
+msgid "No, not yet."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Bad_Moon_Rising/scenarios/2_03_World.cfg:217
+msgid "Well, why are you here then?  You cannot pass without the gold..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Bad_Moon_Rising/scenarios/2_03_World.cfg:222
+msgid ""
+"Wait!  I heard the local chief south of here has a problem, there may be "
+"opportunity there.  Give him my regards.  I would go myself, but I must stay "
+"here."
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_03_World.cfg:244
+msgid "Hello?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Bad_Moon_Rising/scenarios/2_03_World.cfg:248
+msgid "Please, don't stay here!  There are orcs all over the place, go away!"
+msgstr ""
+
+#. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/2_03_World.cfg:279
+msgid ""
+"This encampment displays the Gareth Banner, we might - I repeat might - be "
+"able to talk to them without drawing ire."
+msgstr ""
+
+#. [scenario]
+#: Bad_Moon_Rising/scenarios/S_Hills6.cfg:4
+#: Bad_Moon_Rising/scenarios/S_Hills8.cfg:4
+#: Bad_Moon_Rising/scenarios/S_Hills7.cfg:4
+#: Bad_Moon_Rising/scenarios/S_Hills5.cfg:4
 #: Bad_Moon_Rising/scenarios/S_Hills3.cfg:4
 #: Bad_Moon_Rising/scenarios/S_Hills1.cfg:4
 #: Bad_Moon_Rising/scenarios/S_Hills2.cfg:4
 #: Bad_Moon_Rising/scenarios/S_Hills4.cfg:4
+#: Bad_Moon_Rising/scenarios/S_Hills9.cfg:4
 msgid "Hill Skirmish"
 msgstr ""
 
-#. [side]: type=Orcish Slurbow, description=Leader
-#. [side]: type=Orcish Crossbowman, description=Leader
 #. [side]: type=Goblin Knight, description=Leader
 #. [side]: type=Orcish Warrior, description=Leader
+#. [side]: type=Orcish Slurbow, description=Leader
+#. [side]: type=Orcish Crossbowman, description=Leader
 #. [side]: type=Orcish Slayer, description=Leader
+#: Bad_Moon_Rising/scenarios/S_Snow5.cfg:57
+#: Bad_Moon_Rising/scenarios/S_Hills6.cfg:53
 #: Bad_Moon_Rising/scenarios/S_Woods4.cfg:57
+#: Bad_Moon_Rising/scenarios/S_Snow9.cfg:57
 #: Bad_Moon_Rising/scenarios/S_Woods2.cfg:57
+#: Bad_Moon_Rising/scenarios/S_Snow6.cfg:53
+#: Bad_Moon_Rising/scenarios/S_Hills8.cfg:57
+#: Bad_Moon_Rising/scenarios/S_Snow8.cfg:57
+#: Bad_Moon_Rising/scenarios/S_Hills7.cfg:53
+#: Bad_Moon_Rising/scenarios/S_Woods5.cfg:53
+#: Bad_Moon_Rising/scenarios/S_Hills5.cfg:57
 #: Bad_Moon_Rising/scenarios/S_Snow3.cfg:57
 #: Bad_Moon_Rising/scenarios/S_Snow1.cfg:57
 #: Bad_Moon_Rising/scenarios/S_Snow2.cfg:57
 #: Bad_Moon_Rising/scenarios/S_Woods1.cfg:57
+#: Bad_Moon_Rising/scenarios/S_Woods7.cfg:53
 #: Bad_Moon_Rising/scenarios/S_Snow4.cfg:57
 #: Bad_Moon_Rising/scenarios/S_Hills3.cfg:57
 #: Bad_Moon_Rising/scenarios/S_Hills1.cfg:57
+#: Bad_Moon_Rising/scenarios/S_Woods6.cfg:53
 #: Bad_Moon_Rising/scenarios/S_Hills2.cfg:57
 #: Bad_Moon_Rising/scenarios/S_Woods3.cfg:57
+#: Bad_Moon_Rising/scenarios/S_Woods9.cfg:53
 #: Bad_Moon_Rising/scenarios/S_Hills4.cfg:57
+#: Bad_Moon_Rising/scenarios/S_Snow7.cfg:53
+#: Bad_Moon_Rising/scenarios/S_Hills9.cfg:57
+#: Bad_Moon_Rising/scenarios/S_Woods8.cfg:53
 msgid "Leader"
 msgstr ""
 
 #. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/scenarios/S_Snow5.cfg:113
+#: Bad_Moon_Rising/scenarios/S_Hills6.cfg:108
 #: Bad_Moon_Rising/scenarios/S_Woods4.cfg:117
+#: Bad_Moon_Rising/scenarios/S_Snow9.cfg:113
 #: Bad_Moon_Rising/scenarios/S_Woods2.cfg:117
+#: Bad_Moon_Rising/scenarios/S_Snow6.cfg:109
+#: Bad_Moon_Rising/scenarios/S_Hills8.cfg:116
+#: Bad_Moon_Rising/scenarios/S_Snow8.cfg:113
+#: Bad_Moon_Rising/scenarios/S_Hills7.cfg:108
+#: Bad_Moon_Rising/scenarios/S_Woods5.cfg:109
+#: Bad_Moon_Rising/scenarios/S_Hills5.cfg:112
 #: Bad_Moon_Rising/scenarios/S_Snow3.cfg:117
 #: Bad_Moon_Rising/scenarios/S_Snow1.cfg:117
 #: Bad_Moon_Rising/scenarios/S_Snow2.cfg:117
 #: Bad_Moon_Rising/scenarios/S_Woods1.cfg:117
+#: Bad_Moon_Rising/scenarios/S_Woods7.cfg:109
 #: Bad_Moon_Rising/scenarios/S_Snow4.cfg:117
 #: Bad_Moon_Rising/scenarios/S_Hills3.cfg:116
 #: Bad_Moon_Rising/scenarios/S_Hills1.cfg:116
+#: Bad_Moon_Rising/scenarios/S_Woods6.cfg:109
 #: Bad_Moon_Rising/scenarios/S_Hills2.cfg:116
 #: Bad_Moon_Rising/scenarios/S_Woods3.cfg:117
+#: Bad_Moon_Rising/scenarios/S_Woods9.cfg:109
 #: Bad_Moon_Rising/scenarios/S_Hills4.cfg:116
+#: Bad_Moon_Rising/scenarios/S_Snow7.cfg:109
+#: Bad_Moon_Rising/scenarios/S_Hills9.cfg:116
+#: Bad_Moon_Rising/scenarios/S_Woods8.cfg:109
 msgid "We should have stayed on the path..."
 msgstr ""
 
+#. [message]: speaker=unit
 #. [message]: speaker=Lorenzon
+#: Bad_Moon_Rising/utils/worldmap.cfg:149
+#: Bad_Moon_Rising/scenarios/S_Snow5.cfg:124
+#: Bad_Moon_Rising/scenarios/S_Hills6.cfg:119
 #: Bad_Moon_Rising/scenarios/S_Woods4.cfg:128
 #: Bad_Moon_Rising/scenarios/S_Woods2.cfg:128
+#: Bad_Moon_Rising/scenarios/S_Snow6.cfg:120
+#: Bad_Moon_Rising/scenarios/S_Hills5.cfg:123
 #: Bad_Moon_Rising/scenarios/S_Snow3.cfg:128
 #: Bad_Moon_Rising/scenarios/S_Snow1.cfg:128
 #: Bad_Moon_Rising/scenarios/S_Snow2.cfg:128
@@ -4179,8 +5211,11 @@ msgid "What a dumb way to die..."
 msgstr ""
 
 #. [message]: description=Lorenzon
+#: Bad_Moon_Rising/scenarios/S_Snow5.cfg:139
 #: Bad_Moon_Rising/scenarios/S_Woods4.cfg:156
 #: Bad_Moon_Rising/scenarios/S_Woods2.cfg:156
+#: Bad_Moon_Rising/scenarios/S_Woods5.cfg:123
+#: Bad_Moon_Rising/scenarios/S_Hills5.cfg:138
 #: Bad_Moon_Rising/scenarios/S_Snow3.cfg:156
 #: Bad_Moon_Rising/scenarios/S_Snow1.cfg:156
 #: Bad_Moon_Rising/scenarios/S_Snow2.cfg:156
@@ -4195,25 +5230,76 @@ msgid ""
 "It's all over..."
 msgstr ""
 
+#. [message]: description=Lorenzon
+#: Bad_Moon_Rising/scenarios/S_Hills6.cfg:134
+#: Bad_Moon_Rising/scenarios/S_Snow9.cfg:127
+#: Bad_Moon_Rising/scenarios/S_Snow8.cfg:127
+#: Bad_Moon_Rising/scenarios/S_Hills7.cfg:122
+#: Bad_Moon_Rising/scenarios/S_Woods7.cfg:123
+#: Bad_Moon_Rising/scenarios/S_Snow4.cfg:156
+#: Bad_Moon_Rising/scenarios/S_Woods6.cfg:123
+#: Bad_Moon_Rising/scenarios/S_Snow7.cfg:123
+msgid "We've dawdled around here for too long.  It's all over..."
+msgstr ""
+
+#. [message]: description=Lorenzon
+#: Bad_Moon_Rising/scenarios/S_Hills8.cfg:130
+#: Bad_Moon_Rising/scenarios/S_Hills9.cfg:130
+msgid "The orcs are wise to us.  It's all over..."
+msgstr ""
+
 #. [scenario]
+#: Bad_Moon_Rising/scenarios/S_Snow5.cfg:4
+#: Bad_Moon_Rising/scenarios/S_Snow9.cfg:4
+#: Bad_Moon_Rising/scenarios/S_Snow6.cfg:4
+#: Bad_Moon_Rising/scenarios/S_Snow8.cfg:4
 #: Bad_Moon_Rising/scenarios/S_Snow3.cfg:4
 #: Bad_Moon_Rising/scenarios/S_Snow1.cfg:4
 #: Bad_Moon_Rising/scenarios/S_Snow2.cfg:4
 #: Bad_Moon_Rising/scenarios/S_Snow4.cfg:4
+#: Bad_Moon_Rising/scenarios/S_Snow7.cfg:4
 msgid "Snow Skirmish"
 msgstr ""
 
 #. [message]: description=Lorenzon
-#: Bad_Moon_Rising/scenarios/S_Snow4.cfg:156
-msgid "We've dawdled around here for too long.  It's all over..."
+#: Bad_Moon_Rising/scenarios/S_Snow6.cfg:135
+msgid "We've dawdled around here for too long, it's all over..."
+msgstr ""
+
+#. [objective]: condition=lose
+#: Bad_Moon_Rising/scenarios/S_Snow7.cfg:27
+msgid "Death of Heros"
 msgstr ""
 
 #. [scenario]
 #: Bad_Moon_Rising/scenarios/S_Woods4.cfg:4
 #: Bad_Moon_Rising/scenarios/S_Woods2.cfg:4
 #: Bad_Moon_Rising/scenarios/S_Woods1.cfg:4
+#: Bad_Moon_Rising/scenarios/S_Woods7.cfg:4
 #: Bad_Moon_Rising/scenarios/S_Woods3.cfg:4
 msgid "Forrest Skirmish"
+msgstr ""
+
+#. [scenario]
+#: Bad_Moon_Rising/scenarios/S_Woods5.cfg:4
+#: Bad_Moon_Rising/scenarios/S_Woods6.cfg:4
+#: Bad_Moon_Rising/scenarios/S_Woods9.cfg:4
+#: Bad_Moon_Rising/scenarios/S_Woods8.cfg:4
+msgid "Forest Skirmish"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Bad_Moon_Rising/scenarios/S_Woods9.cfg:27
+#: Bad_Moon_Rising/scenarios/S_Woods8.cfg:27
+msgid "Death of a hero"
+msgstr ""
+
+#. [message]: description=Lorenzon
+#: Bad_Moon_Rising/scenarios/S_Woods9.cfg:123
+#: Bad_Moon_Rising/scenarios/S_Woods8.cfg:123
+msgid ""
+"We've dawdled around here for too long, the orcs are uniting against us.  "
+"It's all over..."
 msgstr ""
 
 #. [unit]: race=monster
@@ -4254,7 +5340,7 @@ msgstr ""
 #: Bad_Moon_Rising/units/primeval/Primeval_Striker.cfg:40
 #: Bad_Moon_Rising/units/primeval/Primeval_Storm.cfg:47
 #: Bad_Moon_Rising/units/primeval/Primeval_Swift.cfg:30
-#: Bad_Moon_Rising/units/primeval/Primeval_Monk.cfg:27
+#: Bad_Moon_Rising/units/primeval/Primeval_Monk.cfg:28
 #: Bad_Moon_Rising/units/primeval/Primeval_Follower.cfg:26
 msgid "Staff"
 msgstr ""
@@ -4280,6 +5366,36 @@ msgstr ""
 msgid "Hoof"
 msgstr ""
 
+#. [unit]: race=orc
+#: Bad_Moon_Rising/units/Hrala.cfg:4
+msgid "Hrala"
+msgstr ""
+
+#. [unit]: race=orc
+#: Bad_Moon_Rising/units/Hrala.cfg:22
+msgid ""
+"The warlike culture and high fertility rate of their race condem most orcish "
+"females to be little more than baby machines.  A small number manage to "
+"avoid this fate by learning to use the materials around them to heal and "
+"harm in ways most of their bretheren do not understand.  The orcish leaders "
+"understand the value that this group has as healers, and even the most "
+"ignoble grunt will not lay a hand on them for fear of being cursed.  Various "
+"herbs and pollens can be used to heal or poison.  Ash is a common material "
+"that can blind or choke an assailant.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Bad_Moon_Rising/units/Hrala.cfg:37
+msgid "Stick"
+msgstr ""
+
+#. [attack]: type=impact
+#: Bad_Moon_Rising/units/Hrala.cfg:49
+msgid "Ash"
+msgstr ""
+
 #. [unit]: race=human
 #: Bad_Moon_Rising/units/Huric.cfg:4
 msgid "Tyrant"
@@ -4298,14 +5414,14 @@ msgstr ""
 
 #. [attack]: type=blade
 #. [attack]: type=impact
-#: Bad_Moon_Rising/units/ukians/Ukian_Subcom.cfg:48
+#: Bad_Moon_Rising/units/ukians/Ukian_Subcom.cfg:51
 #: Bad_Moon_Rising/units/Huric.cfg:49
 #: Bad_Moon_Rising/units/primeval/Primeval_Shield.cfg:28
 #: Bad_Moon_Rising/units/primeval/Primeval_Fighter.cfg:26
 #: Bad_Moon_Rising/units/primeval/Primeval_Ares.cfg:44
 #: Bad_Moon_Rising/units/primeval/Primeval_Nemesis.cfg:47
-#: Bad_Moon_Rising/units/primeval/Primeval_Leader.cfg:30
-#: Bad_Moon_Rising/units/primeval/Primeval_Fanatic.cfg:26
+#: Bad_Moon_Rising/units/primeval/Primeval_Leader.cfg:33
+#: Bad_Moon_Rising/units/primeval/Primeval_Fanatic.cfg:28
 msgid "Sword"
 msgstr ""
 
@@ -4377,8 +5493,8 @@ msgstr ""
 
 #. [attack]: type=cold
 #: Bad_Moon_Rising/units/primeval/Primeval_Fighter.cfg:35
-#: Bad_Moon_Rising/units/primeval/Primeval_Leader.cfg:39
-#: Bad_Moon_Rising/units/primeval/Primeval_Fanatic.cfg:35
+#: Bad_Moon_Rising/units/primeval/Primeval_Leader.cfg:42
+#: Bad_Moon_Rising/units/primeval/Primeval_Fanatic.cfg:37
 msgid "curse"
 msgstr ""
 
@@ -4409,7 +5525,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=cold
-#: Bad_Moon_Rising/units/primeval/Primeval_Monk.cfg:36
+#: Bad_Moon_Rising/units/primeval/Primeval_Monk.cfg:37
 #: Bad_Moon_Rising/units/primeval/Primeval_Follower.cfg:35
 msgid "chill"
 msgstr ""
@@ -4889,7 +6005,7 @@ msgstr ""
 #. [attack]: type=blade
 #. [attack]: type=pierce
 #: Bad_Moon_Rising/units/ukians/Ukian_Regular.cfg:58
-#: Bad_Moon_Rising/units/ukians/Ukian_Subcom.cfg:57
+#: Bad_Moon_Rising/units/ukians/Ukian_Subcom.cfg:60
 msgid "Throwing Knife"
 msgstr ""
 
@@ -4958,7 +6074,7 @@ msgid "Ukian Subcommander"
 msgstr ""
 
 #. [unit]: race=ukian
-#: Bad_Moon_Rising/units/ukians/Ukian_Subcom.cfg:31
+#: Bad_Moon_Rising/units/ukians/Ukian_Subcom.cfg:34
 msgid ""
 "Successful Veterans become Subcommanders, and lead greater numbers of "
 "fighters.  They also carry more substantial shields, which may be used not "
@@ -4966,7 +6082,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=pierce
-#: Bad_Moon_Rising/units/ukians/Ukian_Subcom.cfg:66
+#: Bad_Moon_Rising/units/ukians/Ukian_Subcom.cfg:69
 msgid "Shield"
 msgstr ""
 
@@ -5302,4 +6418,19 @@ msgstr ""
 #. [time]
 #: Bad_Moon_Rising/utils/schedules.cfg:69
 msgid "Second Watch"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Bad_Moon_Rising/utils/worldmap.cfg:162
+msgid "Oof..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Bad_Moon_Rising/utils/worldmap.cfg:175
+msgid "Ack..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Bad_Moon_Rising/utils/worldmap.cfg:188
+msgid "Ouch..."
 msgstr ""
