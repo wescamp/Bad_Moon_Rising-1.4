@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-12-22 20:36+0100\n"
+"POT-Creation-Date: 2008-12-26 00:08+0100\n"
 "PO-Revision-Date: 2008-07-07 22:48+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -114,8 +114,8 @@ msgstr ""
 #: Bad_Moon_Rising/_main.cfg:50
 msgid ""
 "Battles were won, but the war is not over.  The Ukians must head back north "
-"to save the world ( etc., etc.).  (UPDATE for 0.4.7:  Bug fixes to main "
-"scenarios.  World map scenarios not done.)"
+"to save the world ( etc., etc.).  (UPDATE for 0.4.7.1:  Fixed bug in "
+"immortal units)"
 msgstr ""
 
 #. [about]
@@ -7739,19 +7739,18 @@ msgstr ""
 #: Bad_Moon_Rising/units/primeval/Primeval_Nemesis.cfg:62
 msgid ""
 "immortal:\n"
-"This unit heals 16 HP per turn.  If poisoned, it will remove the poison.  It "
-"is restored to full health when killed."
+"This unit heals 99 HP per turn.  If poisoned, it will remove the poison."
 msgstr ""
 
 #. [attack]: type=pierce
 #. [attack]: type=impact
-#: Bad_Moon_Rising/units/khthon/Chimera.cfg:44
+#: Bad_Moon_Rising/units/khthon/Chimera.cfg:43
 #: Bad_Moon_Rising/units/khthon/Orthrus.cfg:34
 msgid "Bite"
 msgstr ""
 
 #. [attack]: type=fire
-#: Bad_Moon_Rising/units/khthon/Chimera.cfg:53
+#: Bad_Moon_Rising/units/khthon/Chimera.cfg:52
 msgid "Breath"
 msgstr ""
 
@@ -7784,11 +7783,6 @@ msgstr ""
 #. [attack]: type=fire
 #: Bad_Moon_Rising/units/khthon/Echidna.cfg:52
 msgid "Psyche"
-msgstr ""
-
-#. [message]: speaker=unit
-#: Bad_Moon_Rising/units/khthon/Echidna.cfg:183
-msgid "Haha!"
 msgstr ""
 
 #. [unit]: id=Orthrus, race=khthon
@@ -7861,12 +7855,6 @@ msgid ""
 "really a god, but he appears to be invinceable, so the name War God is "
 "fitting enough.\n"
 "Special Note:  This unit cannot be killed."
-msgstr ""
-
-#. [message]: speaker=unit
-#: Bad_Moon_Rising/units/primeval/Primeval_Ares.cfg:94
-#: Bad_Moon_Rising/units/primeval/Primeval_Nemesis.cfg:283
-msgid "HRAaah!"
 msgstr ""
 
 #. [unit]: id=Primeval Driver, race=primeval
