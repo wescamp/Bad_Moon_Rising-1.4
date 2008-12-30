@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-12-26 00:08+0100\n"
+"POT-Creation-Date: 2008-12-30 17:41+0100\n"
 "PO-Revision-Date: 2008-01-28 20:40+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1228,10 +1228,10 @@ msgstr ""
 #. [message]: speaker=S_Knight
 #. [message]: speaker=Sadellon
 #: Bad_Moon_Rising/scenarios/1_00_Orders.cfg:197
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:487
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:543
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:600
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:674
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:488
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:544
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:601
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:675
 msgid "Yes, my lord!"
 msgstr ""
 
@@ -1505,7 +1505,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/1_09_World.cfg:212
 #: Bad_Moon_Rising/scenarios/1_07_World.cfg:271
 #: Bad_Moon_Rising/scenarios/1_03_Camp.cfg:244
-#: Bad_Moon_Rising/scenarios/1_02_World.cfg:328
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:336
 #: Bad_Moon_Rising/scenarios/1_05_Defend.cfg:229
 msgid "THAT is what happens to traitors!"
 msgstr ""
@@ -1780,7 +1780,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/1_07_World.cfg:284
 #: Bad_Moon_Rising/scenarios/S_Hills4.cfg:124
 #: Bad_Moon_Rising/scenarios/1_03_Camp.cfg:257
-#: Bad_Moon_Rising/scenarios/1_02_World.cfg:341
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:349
 #: Bad_Moon_Rising/scenarios/1_05_Defend.cfg:242
 msgid "We had just started..."
 msgstr ""
@@ -1864,33 +1864,33 @@ msgid "We should not dally here, it's time to go."
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios/1_02_World.cfg:221
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:227
 msgid ""
 "We should pay a visit to our sisters in Korkath, they will not be spared the "
 "wrath of Huric."
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios/1_02_World.cfg:249
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:257
 msgid ""
 "If a large Orcish force is attacking Fort Kuhle, it is unwise to keep "
 "wandering in this direction..."
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios/1_02_World.cfg:262
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:270
 msgid "We are headed straight for Huric.  Let's turn back..."
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios/1_02_World.cfg:275
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:283
 msgid ""
 "The people are tired, we should set up camp here.  I hope they don't find "
 "us..."
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios/1_02_World.cfg:304
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:312
 msgid "Maybe we can st-  What have we here?"
 msgstr ""
 
@@ -1899,7 +1899,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/1_08_World.cfg:273
 #: Bad_Moon_Rising/scenarios/1_04_World.cfg:248
 #: Bad_Moon_Rising/scenarios/1_07_World.cfg:298
-#: Bad_Moon_Rising/scenarios/1_02_World.cfg:355
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:363
 msgid "It's them!  Charge!!"
 msgstr ""
 
@@ -1908,7 +1908,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/1_08_World.cfg:277
 #: Bad_Moon_Rising/scenarios/1_04_World.cfg:252
 #: Bad_Moon_Rising/scenarios/1_07_World.cfg:302
-#: Bad_Moon_Rising/scenarios/1_02_World.cfg:359
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:367
 msgid "Give my regards to Lieutenant Cantwell, traitor!"
 msgstr ""
 
@@ -1917,7 +1917,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/1_08_World.cfg:281
 #: Bad_Moon_Rising/scenarios/1_04_World.cfg:256
 #: Bad_Moon_Rising/scenarios/1_07_World.cfg:306
-#: Bad_Moon_Rising/scenarios/1_02_World.cfg:363
+#: Bad_Moon_Rising/scenarios/1_02_World.cfg:371
 msgid "(Gulp!)"
 msgstr ""
 
@@ -3170,37 +3170,37 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Dragoon1
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:479
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:480
 msgid "My Lord!  We got word of the trouble, Northern Cavalry is on its way!"
 msgstr ""
 
 #. [message]: speaker=Huric
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:483
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:484
 msgid "Good!  We need to end this as fast as possible, hold nothing back."
 msgstr ""
 
 #. [message]: speaker=Cavalier1
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:535
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:536
 msgid "My lord!  Royal Cavalry, Northern Division, reporting!"
 msgstr ""
 
 #. [message]: speaker=Huric
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:539
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:540
 msgid "You can see the enemy!  Destroy them!"
 msgstr ""
 
 #. [message]: speaker=S_Knight
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:592
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:593
 msgid "Lord Huric!  Royal Horseman reporting, Southern Division!"
 msgstr ""
 
 #. [message]: speaker=Huric
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:596
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:597
 msgid "Good!  You see who the enemy is.  Run them down!"
 msgstr ""
 
 #. [message]: speaker=Huric
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:612
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:613
 msgid ""
 "This is not going well...  Send word to Sir Sadellon that his presence is "
 "required.  He and his family have grown fat under my protection, it's time "
@@ -3208,22 +3208,22 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Norton
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:616
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:617
 msgid "Yes, my lord.  A rider is on the way."
 msgstr ""
 
 #. [unit]: type=Grand Knight, description=Sadellon
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:649
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:650
 msgid "Sir Sadellon"
 msgstr ""
 
 #. [message]: speaker=Sadellon
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:666
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:667
 msgid "Lord Huric!  We came as fast as we could!"
 msgstr ""
 
 #. [message]: speaker=Huric
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:670
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:671
 msgid ""
 "Your help is greatly appreciated, Sir Sadellon, and comes none too soon.  "
 "The rebels have gotten strong and are quite dangerous, we need to destroy "
@@ -3231,12 +3231,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Huric
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:686
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:687
 msgid "Ah, fresh troops have arrived..."
 msgstr ""
 
 #. [message]: speaker=Lorenzon
-#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:690
+#: Bad_Moon_Rising/scenarios/1_08_Rumble.cfg:691
 msgid ""
 "This has spun out of control...  Oh, why did I ever listen to that evil old "
 "man?"
