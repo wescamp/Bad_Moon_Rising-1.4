@@ -1,3 +1,8 @@
+
+*** These modified files were found in JOE when it aborted on Mon Dec 29 16:37:40 2008
+*** JOE was aborted by UNIX signal 1
+
+*** File '1_03_Camp.cfg'
 #textdomain wesnoth-Bad_Moon_Rising
 [scenario]
 	id="1_03_Camp"
@@ -403,3 +408,19 @@
 	[/if]
 	[/event]
 [/scenario]
+
+*** File '(Unnamed)'
+{RAIN}
+
+*** File '(Unnamed)'
+1_08_Rumble.cfg
+1_08_Rumble.cfg
+1_08_Rumble.cfg
+1_08_Rumble.cfg
+1_08_Rumble.cfg
+1_08_Rumble.cfg
+1_08_Rumble.cfg
+1_08_Rumble.cfg
+1_02_World.cfg
+1_08_RumbleB.map
+1_03_Camp.cfg
