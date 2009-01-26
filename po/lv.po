@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-12-30 17:41+0100\n"
+"POT-Creation-Date: 2009-01-26 11:51+0100\n"
 "PO-Revision-Date: 2008-05-01 17:03+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -104,7 +104,7 @@ msgid ""
 "was a monster, but while overthrowing him, Officer Lorenzon unwittingly "
 "unleashes an even greater evil on the world.  (Works on 1.4.  There are ~12 "
 "scenarios playable, they still need balancing if not debugging.  UPDATE for "
-"0.4.7:  Not much.)"
+"0.4.7.3: Not much.)"
 msgstr ""
 
 #. [campaign]: id=Bad_Moon_Rising_III
@@ -116,8 +116,8 @@ msgstr ""
 #: Bad_Moon_Rising/_main.cfg:50
 msgid ""
 "Battles were won, but the war is not over.  The Ukians must head back north "
-"to save the world ( etc., etc.).  (UPDATE for 0.4.7.1:  Fixed bug in "
-"immortal units)"
+"to save the world ( etc., etc.).  (UPDATE for 0.4.7.3:  Fixed recall list "
+"bug near end scenarios.)"
 msgstr ""
 
 #. [about]
@@ -251,7 +251,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/0_03_Unbreakable.cfg:50
 #: Bad_Moon_Rising/scenarios/0_04_Darkside.cfg:37
 #: Bad_Moon_Rising/scenarios/0_01_Abandoned.cfg:49
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:51
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:52
 msgid "Death of Scarrion"
 msgstr ""
 
@@ -308,7 +308,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/2_03_Knell.cfg:227
 #: Bad_Moon_Rising/scenarios/1_10_OldFriend.cfg:91
 #: Bad_Moon_Rising/scenarios/0_01_Abandoned.cfg:65
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:60
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:61
 #: Bad_Moon_Rising/scenarios/1_09_Pit.cfg:273
 msgid "Scarrion"
 msgstr ""
@@ -515,7 +515,7 @@ msgstr ""
 #. [side]: type=Necromancer, description=Malevan
 #: Bad_Moon_Rising/scenarios/0_02_Bad.cfg:43
 #: Bad_Moon_Rising/scenarios/0_03_Unbreakable.cfg:93
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:86
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:87
 msgid "Malevan"
 msgstr ""
 
@@ -654,7 +654,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios/2_06_Teora.cfg:104
 #: Bad_Moon_Rising/scenarios/1_10_NewHome.cfg:41
 #: Bad_Moon_Rising/scenarios/1_10_OldFriend.cfg:38
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:47
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:48
 #: Bad_Moon_Rising/scenarios/2_03_Pit.cfg:67
 msgid "Time runs out"
 msgstr ""
@@ -862,7 +862,7 @@ msgid "Payback"
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:17
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:18
 msgid ""
 "Scarrion lost conciousness.  When he awoke, he was in the lit chamber and "
 "dressed in blue robes.  He jumped to his feet and noticed he felt... "
@@ -871,7 +871,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:20
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:21
 msgid ""
 "We have been dormant for a long time, but you have awakened us.  The world "
 "is not at all how we left it.  While you slept, we...  asked you many "
@@ -880,7 +880,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:27
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:28
 msgid ""
 "We've given you a great gift...  How would you like to serve revenge to "
 "Malevan and to Bersohn?  You will leave this mountain, rally more of your "
@@ -891,7 +891,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:34
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:35
 msgid ""
 "And with that she turned and disappeared.  She already knew his answer:  He "
 "couldn't wait to destroy the evil necromancer Malevan and the callous "
@@ -901,110 +901,117 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:43
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:44
 msgid "Slay Malevan"
 msgstr ""
 
 #. [objectives]
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:53
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:54
 msgid ""
 "Hint:  You are grossly outnumbered, don't try to wipe out the undead.  Just "
 "kill the Necromancer to the southwest."
 msgstr ""
 
 #. [side]: type=Death Knight, description=Guardian
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:129
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:130
 msgid "Guardian"
 msgstr ""
 
 #. [message]: speaker=Scarrion_B
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:196
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:197
 msgid "Malevan will not survive the day!"
 msgstr ""
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:200
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:201
 msgid "I hear someone...  Is it that weasle Scarrion, come to beg forgiveness?"
 msgstr ""
 
 #. [message]: speaker=Scarrion_B
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:204
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:205
 msgid "I hear a familiar voice...  We should take the western tunnel."
 msgstr ""
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:216
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:217
 msgid "Scarrion, you've changed..."
 msgstr ""
 
 #. [message]: speaker=Scarrion_B
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:220
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:221
 msgid "I will destroy you!"
 msgstr ""
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:243
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:244
 msgid "Ha!  Not so fast..."
 msgstr ""
 
 #. [message]: speaker=Scarrion_B
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:257
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:258
 msgid ""
 "If we can plug the side tunnels, we will have a clearer path to victory!"
 msgstr ""
 
+#. [message]: speaker=narrator
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:262
+msgid ""
+"To close a tunnel, move a unit next to a boulder, opposite hex from where it "
+"needs to go.  As if the unit would push it into place."
+msgstr ""
+
 #. [message]: speaker=Scarrion_B
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:269
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:274
 msgid "Close off the side tunnel!"
 msgstr ""
 
 #. [message]: speaker=Scarrion_B
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:287
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:292
 msgid "Move the rock into the tunnel."
 msgstr ""
 
 #. [message]: speaker=Scarrion_B
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:306
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:311
 msgid "Seal the tunnel."
 msgstr ""
 
 #. [message]: speaker=Scarrion_B
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:325
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:330
 msgid "Closed!"
 msgstr ""
 
 #. [message]: speaker=Scarrion
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:343
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:348
 msgid "How could this happen?  I've just started..."
 msgstr ""
 
 #. [message]: speaker=Scarrion_B
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:357
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:362
 msgid "Now you die!"
 msgstr ""
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:361
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:366
 msgid "B-but I spared your life!"
 msgstr ""
 
 #. [message]: speaker=Scarrion_B
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:365
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:370
 msgid "Only so long as I was useful.  Now silence!"
 msgstr ""
 
 #. [message]: speaker=Malevan
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:369
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:374
 msgid "Ahhh!"
 msgstr ""
 
 #. [message]: speaker=Scarrion_B
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:373
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:378
 msgid "Now, to escape this cursed mountain!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:377
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:382
 msgid ""
 "With the death of the necromancer, most of the undead fell back to the long "
 "sleep.  Scarrion spent a few days studying the necromancer's notes, but then "
@@ -1012,7 +1019,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:381
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:386
 msgid ""
 "Once outside, he realized he had no idea where he was, but the sun was "
 "setting, so he knew which direction he had to travel.  General Bersohn and "
@@ -1020,14 +1027,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Scarrion_B
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:392
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:397
 msgid ""
 "I don't feel so well, I feel a hand around my heart...  They must think I'm "
 "unworthy...?"
 msgstr ""
 
 #. [message]: speaker=Muordante
-#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:396
+#: Bad_Moon_Rising/scenarios/0_05_Payback.cfg:401
 msgid ""
 "Well, I was worried for a bit.  But maybe he'll make a good corpse servant."
 msgstr ""
@@ -1197,7 +1204,7 @@ msgstr ""
 
 #. [message]: speaker=Huric
 #: Bad_Moon_Rising/scenarios/1_00_Orders.cfg:170
-msgid "Lieutents, be on your way!"
+msgid "Lieutenants, be on your way!"
 msgstr ""
 
 #. [message]: speaker=Lorenzon
@@ -4675,7 +4682,7 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Bad_Moon_Rising/scenarios/2_05_Orcs.cfg:399
-#: Bad_Moon_Rising/scenarios/2_06_Gate.cfg:530
+#: Bad_Moon_Rising/scenarios/2_06_Gate.cfg:533
 #: Bad_Moon_Rising/scenarios/2_01_Trouble.cfg:534
 #: Bad_Moon_Rising/scenarios/2_04_Checkpoint.cfg:290
 #: Bad_Moon_Rising/scenarios/2_03_Fundraising.cfg:452
@@ -5828,8 +5835,8 @@ msgstr ""
 #. [message]: speaker=unit
 #: Bad_Moon_Rising/scenarios/2_05_Orcs.cfg:412
 #: Bad_Moon_Rising/scenarios/2_05_Orcs.cfg:425
-#: Bad_Moon_Rising/scenarios/2_06_Gate.cfg:543
-#: Bad_Moon_Rising/scenarios/2_06_Gate.cfg:556
+#: Bad_Moon_Rising/scenarios/2_06_Gate.cfg:546
+#: Bad_Moon_Rising/scenarios/2_06_Gate.cfg:559
 #: Bad_Moon_Rising/scenarios/2_04_Checkpoint.cfg:303
 #: Bad_Moon_Rising/scenarios/2_05_Tien.cfg:577
 #: Bad_Moon_Rising/scenarios/2_05_Tien.cfg:590
@@ -6797,12 +6804,12 @@ msgid "Run if you will, but we're not finished!  See you soon, you bastard!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Bad_Moon_Rising/scenarios/2_06_Gate.cfg:514
+#: Bad_Moon_Rising/scenarios/2_06_Gate.cfg:517
 msgid "We're not finished-"
 msgstr ""
 
 #. [message]: speaker=C_Belleros
-#: Bad_Moon_Rising/scenarios/2_06_Gate.cfg:519
+#: Bad_Moon_Rising/scenarios/2_06_Gate.cfg:522
 msgid "This has happened before..."
 msgstr ""
 
